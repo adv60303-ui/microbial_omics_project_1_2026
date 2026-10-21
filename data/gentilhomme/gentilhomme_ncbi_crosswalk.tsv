@@ -1,0 +1,106 @@
+patric_genome_id	patric_name	match_method	ncbi_representative_accession	ncbi_organism	ncbi_strain
+1265503.3	Colwellia piezophila ATCC BAA-637	bvbrc_assembly	GCF_000378625.1	Colwellia piezophila ATCC BAA-637	ATCC BAA-637
+137584.5	Thalassomonas viridans strain XOM25	strain_token	GCF_000948985.2	Thalassomonas viridans	XOM25
+1513592.3	Colwellia marinimaniae strain MTCD1	bvbrc_assembly	GCF_002207865.1	Colwellia marinimaniae	MTCD1
+1535422.5	Thalassotalea sp. ND16A	bvbrc_assembly	GCF_000764205.1	Thalassotalea sp. ND16A	ND16A
+1655234.6	Thalassotalea euphylliae strain H1	bvbrc_assembly	GCF_003390335.1	Thalassotalea euphylliae	H1
+1655234.7	Thalassotalea euphylliae strain H3	bvbrc_assembly	GCF_003390375.1	Thalassotalea euphylliae	H3
+1655234.8	Thalassotalea euphylliae strain H2	bvbrc_assembly	GCF_003390395.1	Thalassotalea euphylliae	H2
+167879.5	Colwellia psychrerythraea 34H	bvbrc_assembly	GCF_000012325.1	Colwellia psychrerythraea 34H	34H; BAA-681
+1718921.3	Colwellia sp. MT2012	bvbrc_assembly	GCF_001432325.1	Colwellia sp. MT2012	MT2012
+1720342.3	Colwellia sp. TT2012	bvbrc_assembly	GCF_001440345.1	Colwellia sp. TT2012	TT2012
+1742724.3	Thalassotalea sp. PP2-459	bvbrc_assembly	GCF_001913705.1	Thalassotalea sp. PP2-459	PP2-459
+1763536.4	Thalassotalea sp. LPB0090	bvbrc_assembly	GCF_001831495.1	Thalassotalea crassostreae	LPB0090
+1763536.6	Thalassotalea crassostreae strain LPB0090	bvbrc_assembly	GCF_001652445.1	Thalassotalea crassostreae	LPB0090
+1816218.27	Colwellia BRX9.1	organism_name	GCF_014077195.1	Colwellia sp. BRX9-1	BRX9-1
+1816218.3	Colwellia sp. PAMC 20917	bvbrc_assembly	GCF_001767295.1	Colwellia sp. PAMC 20917	PAMC 20917
+1816219.4	Colwellia sp. PAMC 21821 strain PAMC 21821	bvbrc_assembly	GCF_002077175.1	Colwellia sp. PAMC 21821	PAMC 21821
+1820336.3	Cognaticolwellia sediminilitoris strain KCTC 52213	bvbrc_assembly	GCA_002104535.1	Cognaticolwellia sediminilitoris	KCTC 52213
+1856279.3	Colwellia sp. 39_35_sub15_T18 strain 39_35_sub15_T18	bvbrc_assembly	GCA_002162675.1	Colwellia sp. 39_35_sub15_T18	39_35_sub15_T18
+1856287.3	Thalassotalea sp. 42_200_T64 strain 42_200_T64	bvbrc_assembly	GCA_002162925.1	Thalassotalea sp. 42_200_T64	42_200_T64
+1888913.3	Cognaticolwellia mytili strain KCTC 52417	bvbrc_assembly	GCF_002104475.1	Cognaticolwellia mytili	KCTC 52417
+1911682.3	Pseudocolwellia agarivorans strain QM50	bvbrc_assembly	GCF_002000085.1	Pseudocolwellia agarivorans	QM50
+1917165.4	Colwellia sp. UCD-KL20	bvbrc_assembly	GCA_001957175.1	Colwellia sp. UCD-KL20	UCD-KL20
+1967665.3	Cognaticolwellia beringensis strain NB097-1	bvbrc_assembly	GCF_002076895.1	Cognaticolwellia beringensis	NB097-1
+1982103.3	Colwellia echini strain A3T	strain_token	GCF_002843355.2	Colwellia echini	A3
+2020715.3	Thalassotalea litorea strain MCCC 1K03283	bvbrc_assembly	GCF_005843925.1	Thalassotalea litorea	MCCC 1K03283
+2026726.3	Colwelliaceae bacterium strain ARS1043	bvbrc_assembly	GCA_002688835.1	Colwelliaceae bacterium	ARS1043
+2058299.3	Colwellia sp. 12G3	bvbrc_assembly	GCF_002836775.1	Colwellia sp. 12G3	12G3
+2058305.3	Colwellia Bg11-28	bvbrc_assembly	GCF_002836245.1	Colwellia sp. Bg11-28	Bg11-28
+2161872.4	Colwellia sp. Arc7-D	bvbrc_assembly	GCF_003061515.1	Colwellia sp. Arc7-D	Arc7-D
+2304625.3	Colwellia sp. OISW-25	bvbrc_assembly	GCF_005885605.1	Colwellia ponticola	OISW-25
+2305464.3	Colwellia sp. RSH04	bvbrc_assembly	GCF_003545765.1	Colwellia sp. RSH04	RSH04
+2491017.3	Litorilituus sp. RZ04	bvbrc_assembly	GCF_006439335.1	Litorilituus lipolyticus	RZ04
+2497879.3	Colwellia sp. Arc7-635	bvbrc_assembly	GCF_003971255.1	Colwellia sp. Arc7-635	Arc7-635
+2508879.3	Colwellia sp. C1TZA3	bvbrc_assembly	GCF_007954265.1	Colwellia sp. C1TZA3	C1TZA3
+2552945.3	Thalassotalea sp. HSM 34 strain HSM 43	bvbrc_assembly	GCF_004752005.1	Thalassotalea sp. HSM 43	HSM 43
+2572245.3	Thalassotalea sp. ZS-4	bvbrc_assembly	GCF_005116735.1	Thalassotalea mangrovi	ZS-4
+2594005.3	Thalassotalea sp. PS06	bvbrc_assembly	GCF_007197775.1	Thalassotalea sp. PS06	PS06
+2594477.3	Thalassomonas sp. M1454	bvbrc_assembly	GCF_007097525.1	Thalassomonas sp. M1454	M1454
+2689569.3	Colwellia sp. 20A7	bvbrc_assembly	GCF_009832865.1	Colwellia sp. 20A7	20A7
+28228.161	Colwellia MB02u-1	organism_name	GCF_014077215.1	Colwellia sp. MB02u-1	MB02u-1
+28228.162	Colwellia MB02u-6	organism_name	GCF_014077095.1	Colwellia sp. MB02u-6	MB02u-6
+28228.163	Colwellia MB02u-7	strain_token	GCF_014076905.1	Colwellia sp. MB02u-7	MB02u-7
+28228.164	Colwellia MB02u-9	organism_name	GCF_014077085.1	Colwellia sp. MB02u-9	MB02u-9
+28228.165	Colwellia MB02u-10	organism_name	GCF_014077185.1	Colwellia sp. MB02u-10	MB02u-10
+28228.166	Colwellia MB02u-11	strain_token	GCF_014076925.1	Colwellia sp. MB02u-11	MB02u-11
+28228.167	Colwellia MB02u-12	organism_name	GCF_014077155.1	Colwellia sp. MB02u-12	MB02u-12
+28228.168	Colwellia MB02u-14	organism_name	GCF_014076915.1	Colwellia sp. MB02u-14	MB02u-14
+28228.169	Colwellia MB02u-18	organism_name	GCF_014077125.1	Colwellia sp. MB02u-18	MB02u-18
+28228.170		unmatched			
+28228.171	Colwellia MB3u-4	organism_name	GCF_014077065.1	Colwellia sp. MB3u-4	MB3u-4
+28228.172	Colwellia MB3u-8	organism_name	GCF_014076985.1	Colwellia sp. MB3u-8	MB3u-8
+28228.173	Colwellia MB3u-22	strain_token	GCF_014076885.1	Colwellia sp. MB3u-22	MB3u-22
+28228.174	Colwellia MB3u-28	strain_token	GCF_014076795.1	Colwellia sp. MB3u-28	MB3u-28
+28228.175	Colwellia MB3u-41	strain_token	GCF_014076845.1	Colwellia sp. MB3u-41	MB3u-41
+28228.176	Colwellia MB3u-43	organism_name	GCF_014076995.1	Colwellia sp. MB3u-43	MB3u-43
+28228.177	Colwellia MB3u-45	organism_name	GCF_014077005.1	Colwellia sp. MB3u-45	MB3u-45
+28228.178	Colwellia MB3u-55	organism_name	GCF_014076785.1	Colwellia sp. MB3u-55	MB3u-55
+28228.179	Colwellia MB3u-64	strain_token	GCF_014076835.1	Colwellia sp. MB3u-64	MB3u-64
+28228.18	Colwellia BRX10.1	organism_name	GCF_014077545.1	Colwellia sp. BRX10-1	BRX10-1
+28228.180		unmatched			
+28228.181	Colwellia Bg11-12	organism_name	GCF_014076955.1	Colwellia sp. Bg11-12	Bg11-12
+28228.19	Colwellia BRX10.2	organism_name	GCF_014077515.1	Colwellia sp. BRX10-2	BRX10-2
+28228.20		unmatched			
+28228.21	Colwellia BRX8.4	organism_name	GCF_014077345.1	Colwellia sp. BRX8-4	BRX8-4
+28228.22	Colwellia BRX10.5	organism_name	GCF_014077435.1	Colwellia sp. BRX10-5	BRX10-5
+28228.23	Colwellia BRX10.6	organism_name	GCF_014077455.1	Colwellia sp. BRX10-6	BRX10-6
+28228.24	Colwellia BRX10.7	organism_name	GCF_014077415.1	Colwellia sp. BRX10-7	BRX10-7
+28228.25	Colwellia BRX10.9	organism_name	GCF_014077405.1	Colwellia sp. BRX10-9	BRX10-9
+28228.26	Colwellia BRX8.2	organism_name	GCF_014077375.1	Colwellia sp. BRX8-2	BRX8-2
+28228.27	Colwellia BRX8.3	organism_name	GCF_014077355.1	Colwellia sp. BRX8-3	BRX8-3
+28228.28	Colwellia BRX8.5	organism_name	GCF_014077325.1	Colwellia sp. BRX8-5	BRX8-5
+28228.29	Colwellia BRX8.6	organism_name	GCF_014077305.1	Colwellia sp. BRX8-6	BRX8-6
+28228.30		unmatched			
+28228.31	Colwellia BRX8.8	organism_name	GCA_014077265.1	Colwellia sp. BRX8-8	BRX8-8
+28228.32	Colwellia BRX8.9	organism_name	GCF_014077245.1	Colwellia sp. BRX8-9	BRX8-9
+28228.33	Colwellia BRX10.4	organism_name	GCF_014077465.1	Colwellia sp. BRX10-4	BRX10-4
+28229.11	Colwellia psychrerythraea strain Glo_19	bvbrc_assembly	GCA_003353735.1	Colwellia psychrerythraea	Glo_19
+28229.3	Colwellia psychrerythraea GAB14E	bvbrc_assembly	GCF_000764185.1	Colwellia psychrerythraea	GAB14E
+28229.4	Colwellia psychrerythraea ND2E	bvbrc_assembly	GCF_000764225.1	Colwellia psychrerythraea	ND2E
+28229.6	Colwellia psychrerythraea strain 38_32_sub10_T18	bvbrc_assembly	GCA_002163005.1	Colwellia psychrerythraea	38_32_sub10_T18
+326537.3	Colwellia polaris strain MCCC1C00015	bvbrc_assembly	GCF_002104515.1	Colwellia polaris	MCCC 1C00015
+329993.3	Cognaticolwellia aestuarii strain KCTC 12480	bvbrc_assembly	GCF_002000025.1	Cognaticolwellia aestuarii	KCTC 12480
+329993.4	Colwellia aestuarii strain CGMCC1.6965	bvbrc_assembly	GCF_002104435.1	Cognaticolwellia aestuarii	CGMCC1.6965
+349064.5	Thalassotalea agarivorans strain DSM 19706	bvbrc_assembly	GCF_900111755.1	Thalassotalea agarivorans	DSM 19706
+485447.8	Thalassomonas actiniarum strain A5K-106	strain_token	GCF_000948975.2	Thalassomonas actiniarum	A5K-106
+56799.10		unmatched			
+56799.11	Colwellia sp. strain UBA8227	bvbrc_assembly	GCA_003545415.1	Colwellia sp.	UBA8227
+56799.13	Colwellia sp. strain DT_22	bvbrc_assembly	GCF_013214175.1	Colwellia sp.	DT_22
+56799.14	Colwellia sp. strain DT_21	bvbrc_assembly	GCA_013215295.1	Colwellia sp.	DT_21
+56799.15	Colwellia sp. strain DT_18	bvbrc_assembly	GCA_013215465.1	Colwellia sp.	DT_18
+56799.16	Colwellia sp. strain DT_20	bvbrc_assembly	GCA_013215385.1	Colwellia sp.	DT_20
+56799.17	Colwellia sp. strain DT_17	bvbrc_assembly	GCF_013215345.1	Colwellia sp.	DT_17
+56799.18	Colwellia sp. strain DT_19	bvbrc_assembly	GCA_013215655.1	Colwellia sp.	DT_19
+56799.4	Colwellia sp. strain NORP29	bvbrc_assembly	GCA_002733765.1	Colwellia sp.	NORP29
+56799.5	Colwellia sp. strain NORP5	strain_token	GCA_002734005.2	Colwellia sp.	NORP5
+56799.8	Colwellia sp. strain Glo_8	bvbrc_assembly	GCA_003354085.1	Colwellia sp.	Glo_8
+56799.9	Colwellia sp. strain UBA10809	bvbrc_assembly	GCA_003520945.1	Colwellia sp.	UBA10809
+58049.4	Colwellia sp. MT41	bvbrc_assembly	GCF_001444365.1	Colwellia sp. MT41	MT41
+641665.4	Colwellia chukchiensis strain CGMCC1.9127	bvbrc_assembly	GCF_002104455.1	Colwellia chukchiensis	CGMCC 1.9127
+718192.4	Litorilituus sediminis strain JCM 17549	bvbrc_assembly	GCF_004295665.1	Litorilituus sediminis	JCM 17549
+888425.3	Colwellia sp. 75C3	bvbrc_assembly	GCF_002836255.1	Colwellia sp. 75C3	75C3
+89401.3	Colwellia demingiae strain ACAM 459	bvbrc_assembly	GCF_007954275.1	Colwellia demingiae	ACAM 459
+89402.3	Colwellia hornerae strain IC037	bvbrc_assembly	GCF_007954305.1	Colwellia hornerae	IC037
+89402.4	Colwellia hornerae strain IC036	bvbrc_assembly	GCF_007954345.1	Colwellia hornerae	IC036
+89402.5	Colwellia hornerae strain ACAM 607	bvbrc_assembly	GCF_007954355.1	Colwellia hornerae	ACAM 607

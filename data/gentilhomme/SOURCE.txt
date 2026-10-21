@@ -1,0 +1,4 @@
+Gentilhomme A, Sweet C, Hennon GMM, Collins RE. 2024. Genomic signatures of cold adaptation in the family Colwelliaceae. Extremophiles 28:39. https://doi.org/10.1007/s00792-024-01356-0
+Repository: https://github.com/agentilhomme/Colwelliaceae-OGT-Genomic-Signatures
+species_tree.nwk is Patric Input/Colwelliaceae Rooted Tree.nwk from that repository. The Newick file has no branch-support values.
+growthrates.tsv, strain_ogt_github.tsv, ogt_mad.tsv, gentilhomme_ncbi_crosswalk.tsv and patric_rooted.tsv are the tables used to match strains and optimal growth temperatures. They are included so the PGLS sample can be rebuilt. The species tree was not re-estimated.

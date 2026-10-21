@@ -1,0 +1,473 @@
+organism,genus,strain,taxid,assembly_accession,biosample_accession,colap_status,copy_number,protein_accession,identity_to_reference,coverage,protein_length,motif_matches,mature_gap_columns
+Cognaticolwellia aestuarii,Cognaticolwellia,CGMCC1.6965,329993,GCF_002104435.1,SAMN06626650,Confirmed ortholog,1,WP_077285153.1,75.9,94.3,619.0,6.0,8.0
+Cognaticolwellia aestuarii,Cognaticolwellia,DOMB16-1_SAMN04262032_MAG_00000005,329993,GCA_982836715.1,SAMEA122255764,Not assessable,0,,,,,,
+Cognaticolwellia aestuarii,Cognaticolwellia,ERR2762101_binner12_Refined_81,329993,GCA_963974895.1,SAMEA115300578,Not assessable,0,,,,,,
+Cognaticolwellia aestuarii,Cognaticolwellia,KCTC 12480,329993,GCF_002000025.1,SAMN06309651,Confirmed ortholog,1,WP_077285153.1,75.9,94.3,619.0,6.0,8.0
+Cognaticolwellia aestuarii,Cognaticolwellia,ME_XS_2203_1_bin_49,329993,GCA_049614005.1,SAMN46376368,Ambiguous homolog,0,,,,,,
+Cognaticolwellia aestuarii,Cognaticolwellia,MarMAG_055822,329993,GCA_977207865.1,SAMEA120688967,Not assessable,0,,,,,,
+Cognaticolwellia aestuarii,Cognaticolwellia,MarMAG_055823,329993,GCA_977250065.1,SAMEA120690576,Not assessable,0,,,,,,
+Cognaticolwellia aestuarii,Cognaticolwellia,MarMAG_055824,329993,GCA_977202625.1,SAMEA120690602,Not assessable,0,,,,,,
+Cognaticolwellia aestuarii,Cognaticolwellia,MarMAG_055826,329993,GCA_977232835.1,SAMEA120688067,Not assessable,0,,,,,,
+Cognaticolwellia aestuarii,Cognaticolwellia,SCGC_AH-613-A01,329993,GCA_062014088.1,SAMN48457359,Confirmed ortholog,1,MIU7763566.1_M1_family_metallopeptidase_[Cognaticolwellia_aestuarii],75.9,94.3,619.0,6.0,8.0
+Cognaticolwellia aestuarii,Cognaticolwellia,SCGC_AH-613-J23,329993,GCA_062013994.1,SAMN48457455,Confirmed ortholog,1,MIU7693565.1_M1_family_metallopeptidase_[Cognaticolwellia_aestuarii],75.9,94.3,619.0,6.0,8.0
+Cognaticolwellia aestuarii,Cognaticolwellia,SRR3933389_bin.14_MetaBAT_v2.12.1_MAG,329993,GCA_913058005.1,SAMEA9695069,Confirmed ortholog,1,WP_273210409.1,75.9,94.3,619.0,6.0,8.0
+Cognaticolwellia aestuarii,Cognaticolwellia,TARA_SAMEA4397612_MAG_00000037,329993,GCA_984467575.1,SAMEA122635071,Not assessable,0,,,,,,
+Cognaticolwellia aestuarii,Cognaticolwellia,f2a76895-5966-4e41-b587-69e9a19e3c0c,329993,GCA_965199085.1,SAMEA115909929,Not assessable,0,,,,,,
+Cognaticolwellia beringensis,Cognaticolwellia,NB097-1,1967665,GCF_002076895.1,SAMN06606376,Confirmed ortholog,1,WP_081152708.1,73.0,99.0,619.0,6.0,8.0
+Cognaticolwellia mytili,Cognaticolwellia,KCTC 52417,1888913,GCF_002104475.1,SAMN06670374,Confirmed ortholog,1,WP_085296778.1,73.1,98.3,619.0,6.0,8.0
+Cognaticolwellia sediminilitoris,Cognaticolwellia,KCTC 52213,1820336,GCA_002104535.1,SAMN06670373,Confirmed ortholog,1,WP_085331131.1,75.5,94.3,619.0,6.0,8.0
+Cognaticolwellia sp.,Cognaticolwellia,3300045789_10,2848173,GCA_047634555.1,SAMN44755603,Confirmed ortholog,1,MFT6667600.1_MAG:_aminopeptidase_N_[Cognaticolwellia_sp.],76.1,94.3,619.0,6.0,8.0
+Cognaticolwellia sp.,Cognaticolwellia,3300045790_13,2848173,GCA_047631195.1,SAMN44755646,Confirmed ortholog,1,MFT6584671.1_MAG:_aminopeptidase_N_[Cognaticolwellia_sp.],76.1,94.3,619.0,6.0,8.0
+Cognaticolwellia sp.,Cognaticolwellia,3300046449_56,2848173,GCA_047630555.1,SAMN44755688,Not detected,0,,,,,,
+Cognaticolwellia sp.,Cognaticolwellia,3300047666_47,2848173,GCA_047629795.1,SAMN44755792,Confirmed ortholog,1,MFT6247189.1_MAG:_aminopeptidase_N_[Cognaticolwellia_sp.],76.1,94.3,619.0,6.0,8.0
+Cognaticolwellia sp.,Cognaticolwellia,3300047666_57,2848173,GCA_047629755.1,SAMN44755797,Confirmed ortholog,1,MFT6195000.1_MAG:_aminopeptidase_N_[Cognaticolwellia_sp.],76.2,94.3,619.0,6.0,8.0
+Cognaticolwellia sp.,Cognaticolwellia,3300053697_105,2848173,GCA_047633655.1,SAMN44755911,Confirmed ortholog,1,MFT6917639.1_MAG:_leukotriene-A4_hydrolase_[Cognaticolwellia_sp.],75.9,94.3,619.0,6.0,8.0
+Cognaticolwellia sp.,Cognaticolwellia,3300054697_62,2848173,GCA_047621545.1,SAMN44748160,Ambiguous homolog,0,,,,,,
+Cognaticolwellia sp.,Cognaticolwellia,3300055526_47,2848173,GCA_047624585.1,SAMN44748510,Ambiguous homolog,0,,,,,,
+Cognaticolwellia sp.,Cognaticolwellia,3300057242_119,2848173,GCA_047618745.1,SAMN44748603,Confirmed ortholog,1,"MFT5636320.1_MAG:_leukotriene-A4_hydrolase,_partial_[Cognaticolwellia_sp.]",76.0,88.7,582.0,6.0,44.0
+Cognaticolwellia sp.,Cognaticolwellia,ME_XS_2203_1_bin_22,2848173,GCA_049614565.1,SAMN46376349,Confirmed ortholog,1,MGB1261578.1_MAG:_M1_family_metallopeptidase_[Cognaticolwellia_sp.],76.2,94.3,619.0,6.0,8.0
+Cognaticolwellia sp.,Cognaticolwellia,MFD12168_ilm_asm_bin13,2848173,GCA_049642265.1,SAMN40011970,Confirmed ortholog,1,MGB2741507.1_MAG:_M1_family_metallopeptidase_[Cognaticolwellia_sp.],72.6,99.0,619.0,6.0,8.0
+Cognaticolwellia sp.,Cognaticolwellia,MSy50,2848173,GCA_062020978.1,SAMN61731684,Confirmed ortholog,1,MIV6509525.1_MAG:_M1_family_metallopeptidase_[Cognaticolwellia_sp.],73.6,97.1,609.0,6.0,8.0
+Cognaticolwellia sp.,Cognaticolwellia,MSy51,2848173,GCF_062020977.1,SAMN61731685,Confirmed ortholog,1,WP_515300749.1,72.7,97.1,619.0,6.0,8.0
+Cognaticolwellia sp.,Cognaticolwellia,Mix_sand16.2022.02.G.68,2848173,GCA_041613215.1,SAMN42104718,Not assessable,0,,,,,,
+Cognaticolwellia sp.,Cognaticolwellia,Mix_sand18.2022.04.D.54,2848173,GCA_041617175.1,SAMN42104917,Not assessable,0,,,,,,
+Cognaticolwellia sp.,Cognaticolwellia,Mix_sand18.2022.04.D.78,2848173,GCA_041616855.1,SAMN42104935,Not assessable,0,,,,,,
+Cognaticolwellia sp.,Cognaticolwellia,S2022_10_2_bin.31,2848173,GCA_056326885.1,SAMN55001120,Confirmed ortholog,1,MHN9656464.1_MAG:_M1_family_metallopeptidase_[Cognaticolwellia_sp.],74.7,94.3,619.0,6.0,8.0
+Cognaticolwellia sp.,Cognaticolwellia,S2022_10_2_bin.31,2848173,GCA_982294215.1,SAMEA121961266,Not assessable,0,,,,,,
+Cognaticolwellia sp.,Cognaticolwellia,SCGC_AH-985-J06,2848173,GCA_062032175.1,SAMN48458108,Ambiguous homolog,0,,,,,,
+Candidatus Colwellia aromaticivorans,Colwellia,Bin11-node4,2267621,GCF_003333305.1,SAMN09531217,Ambiguous homolog,0,,,,,,
+Colwellia aquaemaris,Colwellia,4NH60-0063,1195759,GCF_057548755.1,SAMD01680980,Confirmed ortholog,1,WP_487081212.1,73.6,97.1,609.0,6.0,8.0
+Colwellia asteriadis,Colwellia,JCM 15608,517723,GCF_039523295.1,SAMD00645000,Confirmed ortholog,1,WP_343816791.1,82.9,100.0,629.0,6.0,3.0
+Colwellia chukchiensis,Colwellia,CGMCC 1.9127,641665,GCF_002104455.1,SAMN06626651,Confirmed ortholog,1,WP_408607245.1,73.7,94.3,615.0,6.0,8.0
+Colwellia chukchiensis,Colwellia,CGMCC 1.9127,641665,GCF_900109795.1,SAMN05216262,Not assessable,0,,,,,,
+Colwellia demingiae,Colwellia,ACAM 459,89401,GCF_007954275.1,SAMN10785818,Confirmed ortholog,1,WP_146788076.1,94.3,100.0,634.0,6.0,0.0
+Colwellia echini,Colwellia,A3,1982103,GCF_002843355.2,SAMN08114792,Ambiguous homolog,0,,,,,,
+Colwellia hornerae,Colwellia,ACAM 607,89402,GCF_007954355.1,SAMN10785765,Confirmed ortholog,1,WP_146799326.1,78.7,94.8,616.0,6.0,8.0
+Colwellia hornerae,Colwellia,IC036,89402,GCF_007954345.1,SAMN10785767,Confirmed ortholog,1,WP_146799326.1,78.7,94.8,616.0,6.0,8.0
+Colwellia hornerae,Colwellia,IC037,89402,GCF_007954305.1,SAMN10785768,Confirmed ortholog,1,WP_146799326.1,78.7,94.8,616.0,6.0,8.0
+Colwellia marinimaniae,Colwellia,MTCD1,1513592,GCF_002207865.1,SAMD00081185,Confirmed ortholog,1,WP_057181507.1,88.7,100.0,629.0,6.0,0.0
+Colwellia maritima,Colwellia,MSW7,2912588,GCF_022669015.1,SAMN25236339,Ambiguous homolog,0,,,,,,
+Colwellia maritima,Colwellia,SU-CL01675,2912588,GCF_057540815.1,SAMD01680983,Confirmed ortholog,1,WP_487049708.1,81.2,94.8,623.0,6.0,8.0
+Colwellia meonggei,Colwellia,4NS20-0109,1354731,GCF_057537295.1,SAMD01680984,Confirmed ortholog,1,WP_487129302.1,74.9,94.4,619.0,6.0,8.0
+Colwellia piezophila ATCC BAA-637,Colwellia,ATCC BAA-637,1265503,GCF_000378625.1,SAMN02440473,Confirmed ortholog,1,WP_019025983.1,90.6,100.0,629.0,6.0,0.0
+Colwellia polaris,Colwellia,3300045790_80,326537,GCA_047630955.1,SAMN44755665,Ambiguous homolog,0,,,,,,
+Colwellia polaris,Colwellia,3300055293_71,326537,GCA_047617785.1,SAMN44742115,Not detected,0,,,,,,
+Colwellia polaris,Colwellia,6NakV-04,326537,GCA_036960245.1,SAMN39466471,Confirmed ortholog,1,MEH6596925.1_MAG:_M1_family_metallopeptidase_[Colwellia_polaris],75.1,95.1,619.0,6.0,8.0
+Colwellia polaris,Colwellia,MCCC 1C00015,326537,GCF_002104515.1,SAMN06626649,Confirmed ortholog,1,WP_408607666.1,75.1,95.1,615.0,6.0,8.0
+Colwellia polaris,Colwellia,NW0001-09,326537,GCF_057555225.1,SAMD01680985,Confirmed ortholog,1,WP_408607666.1,75.1,95.1,615.0,6.0,8.0
+Colwellia polaris,Colwellia,REMEI059_ass_metaspades_bin.17,326537,GCA_042093595.1,SAMN39685402,Not assessable,0,,,,,,
+Colwellia polaris,Colwellia,SRR3933305_bin.1_MetaBAT_v2.12.1_MAG,326537,GCA_913060935.1,SAMEA9695241,Confirmed ortholog,1,WP_085302822.1,75.1,95.1,619.0,6.0,8.0
+Colwellia ponticola,Colwellia,OISW-25,2304625,GCF_005885605.1,SAMN11534590,Confirmed ortholog,1,WP_138624107.1,87.2,100.0,631.0,6.0,1.0
+Colwellia psychrerythraea,Colwellia,38_32_sub10_T18,28229,GCA_002163005.1,SAMN05179553,Ambiguous homolog,0,,,,,,
+Colwellia psychrerythraea,Colwellia,GAB14E,28229,GCF_000764185.1,SAMN02989436,Confirmed ortholog,1,WP_081967715.1,90.0,99.8,629.0,6.0,0.0
+Colwellia psychrerythraea,Colwellia,Glo_19,28229,GCA_003353735.1,SAMN08108710,Not assessable,0,,,,,,
+Colwellia psychrerythraea,Colwellia,ND2E,28229,GCF_000764225.1,SAMN02989439,Confirmed ortholog,1,WP_033093174.1,93.7,99.8,634.0,6.0,0.0
+Colwellia psychrerythraea,Colwellia,SRR3580187_bin.10_MetaBAT_v2.12.1_MAG,28229,GCA_913062965.1,SAMEA9695031,Not assessable,0,,,,,,
+Colwellia psychrerythraea 34H,Colwellia,34H; BAA-681,167879,GCF_000012325.1,SAMN02604001,Confirmed ortholog,1,WP_011044230.1,100.0,100.0,629.0,6.0,0.0
+Colwellia sp.,Colwellia,3300047666_71,56799,GCA_047629735.1,SAMN44755802,Ambiguous homolog,0,,,,,,
+Colwellia sp.,Colwellia,3300053237_8,56799,GCA_046710265.1,SAMN44741883,Confirmed ortholog,1,MFQ3266869.1_MAG:_leukotriene-A4_hydrolase_[Colwellia_sp.],86.8,100.0,634.0,6.0,0.0
+Colwellia sp.,Colwellia,3300053238_7,56799,GCA_046710205.1,SAMN44741885,Confirmed ortholog,1,MFQ3264531.1_MAG:_leukotriene-A4_hydrolase_[Colwellia_sp.],86.8,100.0,634.0,6.0,0.0
+Colwellia sp.,Colwellia,3300053697_31,56799,GCA_047633255.1,SAMN44755921,Confirmed ortholog,1,MFT7007736.1_MAG:_leukotriene-A4_hydrolase_[Colwellia_sp.],78.5,100.0,620.0,6.0,8.0
+Colwellia sp.,Colwellia,3300053698_154,56799,GCA_047634175.1,SAMN44755967,Ambiguous homolog,0,,,,,,
+Colwellia sp.,Colwellia,3300053770_104,56799,GCA_047631735.1,SAMN44756004,Confirmed ortholog,2,MFT6690025.1_MAG:_leukotriene-A4_hydrolase_[Colwellia_sp.];MFT6690116.1_MAG:_leukotriene-A4_hydrolase_[Colwellia_sp.],86.8,100.0,634.0,6.0,0.0
+Colwellia sp.,Colwellia,3300053784_126,56799,GCA_047609355.1,SAMN44747833,Confirmed ortholog,1,MFT4724565.1_MAG:_leukotriene-A4_hydrolase_[Colwellia_sp.],78.0,94.8,616.0,6.0,8.0
+Colwellia sp.,Colwellia,3300054694_119,56799,GCA_047636575.1,SAMN44748010,Confirmed ortholog,1,MFT7429669.1_MAG:_leukotriene-A4_hydrolase_[Colwellia_sp.],78.2,94.8,616.0,6.0,8.0
+Colwellia sp.,Colwellia,3300054975_107,56799,GCA_047623465.1,SAMN44748252,Ambiguous homolog,0,,,,,,
+Colwellia sp.,Colwellia,3300055002_37,56799,GCA_047615245.1,SAMN44748367,Ambiguous homolog,0,,,,,,
+Colwellia sp.,Colwellia,3300055003_100,56799,GCA_047614885.1,SAMN44748388,Ambiguous homolog,0,,,,,,
+Colwellia sp.,Colwellia,3300055005_33,56799,GCA_046710105.1,SAMN44742061,Ambiguous homolog,0,,,,,,
+Colwellia sp.,Colwellia,3300055174_36,56799,GCA_047617065.1,SAMN44742084,Confirmed ortholog,1,MFT4965690.1_MAG:_leukotriene-A4_hydrolase_[Colwellia_sp.],86.8,100.0,634.0,6.0,0.0
+Colwellia sp.,Colwellia,3300055293_54,56799,GCA_047617825.1,SAMN44742109,Confirmed ortholog,1,MFT4870450.1_MAG:_leukotriene-A4_hydrolase_[Colwellia_sp.],86.8,100.0,634.0,6.0,0.0
+Colwellia sp.,Colwellia,3300055293_70,56799,GCA_051302675.1,SAMN44742114,Confirmed ortholog,1,MGK2232467.1_MAG:_leukotriene-A4_hydrolase_[Colwellia_sp.],75.1,95.1,619.0,6.0,8.0
+Colwellia sp.,Colwellia,3300055476_73,56799,GCA_046709415.1,SAMN44748482,Ambiguous homolog,0,,,,,,
+Colwellia sp.,Colwellia,3300055726_136,56799,GCA_047628175.1,SAMN44748546,Ambiguous homolog,0,,,,,,
+Colwellia sp.,Colwellia,3300055727_6,56799,GCA_046709525.1,SAMN44742137,Confirmed ortholog,1,MFQ3210230.1_MAG:_leukotriene-A4_hydrolase_[Colwellia_sp.],86.8,100.0,634.0,6.0,0.0
+Colwellia sp.,Colwellia,3300057219_6,56799,GCA_046710905.1,SAMN44734778,Confirmed ortholog,1,MFQ3311933.1_MAG:_leukotriene-A4_hydrolase_[Colwellia_sp.],86.8,100.0,634.0,6.0,0.0
+Colwellia sp.,Colwellia,3300058957_1,56799,GCA_046710765.1,SAMN44734824,Confirmed ortholog,1,MFQ3337906.1_MAG:_leukotriene-A4_hydrolase_[Colwellia_sp.],86.8,100.0,634.0,6.0,0.0
+Colwellia sp.,Colwellia,4375-2-1-20_bin.6,56799,GCA_054034995.1,SAMN49582322,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,9NakV-08,56799,GCA_036960545.1,SAMN39466513,Confirmed ortholog,1,MEH6384658.1_MAG:_M1_family_metallopeptidase_[Colwellia_sp.],78.4,94.8,616.0,6.0,8.0
+Colwellia sp.,Colwellia,ALOHA_DT_125,56799,GCA_022969215.1,SAMN25998896,Confirmed ortholog,1,MCJ8293795.1_MAG:_M1_family_metallopeptidase_[Colwellia_sp.],89.2,100.0,629.0,6.0,0.0
+Colwellia sp.,Colwellia,ALOHA_DT_126,56799,GCA_022969175.1,SAMN25998897,Confirmed ortholog,2,MCJ8322026.1_MAG:_M1_family_metallopeptidase_[Colwellia_sp.];MCJ8318498.1_MAG:_M1_family_metallopeptidase_[Colwellia_sp.],67.6,99.8,623.0,6.0,8.0
+Colwellia sp.,Colwellia,Aegir_M24_B52,56799,GCA_056439325.1,SAMN53235610,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,ArS5.bin.24,56799,GCA_033791085.1,SAMN32784286,Ambiguous homolog,0,,,,,,
+Colwellia sp.,Colwellia,BAIS20-1_SAMN15458159_MAG_00000054,56799,GCF_982598605.1,SAMEA122211147,Confirmed ortholog,1,WP_484018638.1,90.0,100.0,629.0,6.0,0.0
+Colwellia sp.,Colwellia,BAIS20-1_SAMN15458160_MAG_00000011,56799,GCA_982608685.1,SAMEA122211206,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BB5,56799,GCA_016745015.1,SAMN16086331,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BHT04_PHB_gam2,56799,GCA_033852215.1,SAMN38046932,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BM58_3,56799,GCA_041224085.1,SAMN37094235,Ambiguous homolog,0,,,,,,
+Colwellia sp.,Colwellia,BM58_4,56799,GCA_041224045.1,SAMN37094236,Not detected,0,,,,,,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09710598_MAG_00000007,56799,GCA_982678955.1,SAMEA122232797,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09710598_MAG_00000008,56799,GCF_982678925.1,SAMEA122232798,Ambiguous homolog,0,,,,,,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09710599_MAG_00000008,56799,GCA_982671865.1,SAMEA122232806,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09710600_MAG_00000006,56799,GCA_982687495.1,SAMEA122232808,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09710601_MAG_00000004,56799,GCF_982687545.1,SAMEA122232815,Confirmed ortholog,1,WP_487945084.1,89.0,100.0,629.0,6.0,0.0
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09710602_MAG_00000001,56799,GCA_982672695.1,SAMEA122232818,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09710603_MAG_00000005,56799,GCA_982672725.1,SAMEA122232824,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09710603_MAG_00000011,56799,GCA_982678355.1,SAMEA122232828,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09710604_MAG_00000015,56799,GCA_982678625.1,SAMEA122232837,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09710606_MAG_00000004,56799,GCA_982678545.1,SAMEA122232854,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09710607_MAG_00000001,56799,GCA_982687825.1,SAMEA122232864,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09710608_MAG_00000002,56799,GCA_982678685.1,SAMEA122232868,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09710609_MAG_00000003,56799,GCA_982680955.1,SAMEA122232871,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09710609_MAG_00000008,56799,GCA_982680915.1,SAMEA122232875,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09710610_MAG_00000001,56799,GCA_982680885.1,SAMEA122232878,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09710610_MAG_00000011,56799,GCA_982680565.1,SAMEA122232883,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09710611_MAG_00000003,56799,GCA_982682295.1,SAMEA122232885,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09710612_MAG_00000005,56799,GCA_982684655.1,SAMEA122232894,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09710613_MAG_00000002,56799,GCA_982680295.1,SAMEA122232896,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09710615_MAG_00000006,56799,GCA_982681855.1,SAMEA122232910,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09710616_MAG_00000008,56799,GCA_982682305.1,SAMEA122232916,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09710617_MAG_00000006,56799,GCA_982685515.1,SAMEA122232921,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09765674_MAG_00000011,56799,GCA_982681625.1,SAMEA122232933,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09765674_MAG_00000020,56799,GCA_982683475.1,SAMEA122232937,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09765675_MAG_00000018,56799,GCA_982686875.1,SAMEA122232948,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09765676_MAG_00000004,56799,GCA_982687095.1,SAMEA122232950,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09765677_MAG_00000008,56799,GCA_982686745.1,SAMEA122232961,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09765678_MAG_00000011,56799,GCF_982685645.1,SAMEA122232969,Confirmed ortholog,1,WP_291618377.1,89.0,100.0,629.0,6.0,0.0
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09765678_MAG_00000015,56799,GCA_982685635.1,SAMEA122232971,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09765679_MAG_00000008,56799,GCF_982684725.1,SAMEA122232976,Confirmed ortholog,1,WP_291618377.1,89.0,100.0,629.0,6.0,0.0
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09765681_MAG_00000020,56799,GCA_982685935.1,SAMEA122232994,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09765686_MAG_00000005,56799,GCA_982681515.1,SAMEA122233053,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09765686_MAG_00000021,56799,GCA_982680105.1,SAMEA122233063,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09765687_MAG_00000009,56799,GCA_982684395.1,SAMEA122233072,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09765688_MAG_00000005,56799,GCA_982684365.1,SAMEA122233074,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09765689_MAG_00000007,56799,GCA_982680025.1,SAMEA122233081,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09765690_MAG_00000009,56799,GCA_982684325.1,SAMEA122233086,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09765690_MAG_00000020,56799,GCA_982679985.1,SAMEA122233091,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09765691_MAG_00000005,56799,GCA_982684315.1,SAMEA122233093,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09765691_MAG_00000022,56799,GCA_982684235.1,SAMEA122233103,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09765692_MAG_00000010,56799,GCF_982684205.1,SAMEA122233109,Confirmed ortholog,1,WP_487534782.1,89.1,97.3,612.0,6.0,17.0
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09765695_MAG_00000011,56799,GCF_982684065.1,SAMEA122233137,Confirmed ortholog,1,WP_291618377.1,89.0,100.0,629.0,6.0,0.0
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09765697_MAG_00000005,56799,GCA_982679755.1,SAMEA122233153,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09765698_MAG_00000002,56799,GCA_982679705.1,SAMEA122233157,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09765698_MAG_00000006,56799,GCA_982683945.1,SAMEA122233160,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09765699_MAG_00000003,56799,GCA_982680805.1,SAMEA122233165,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09765702_MAG_00000009,56799,GCA_982679605.1,SAMEA122233184,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09765702_MAG_00000012,56799,GCA_982679645.1,SAMEA122233186,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09765702_MAG_00000015,56799,GCA_982683805.1,SAMEA122233188,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09765704_MAG_00000003,56799,GCA_982680715.1,SAMEA122233204,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09765705_MAG_00000004,56799,GCA_982680705.1,SAMEA122233209,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09765707_MAG_00000013,56799,GCA_982686535.1,SAMEA122233223,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09765708_MAG_00000001,56799,GCA_982686655.1,SAMEA122233226,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09765708_MAG_00000007,56799,GCA_982687065.1,SAMEA122233228,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09765711_MAG_00000024,56799,GCF_982686925.1,SAMEA122233261,Confirmed ortholog,1,WP_487538072.1,89.2,100.0,629.0,6.0,0.0
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09765712_MAG_00000006,56799,GCA_982686015.1,SAMEA122233265,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09765714_MAG_00000001,56799,GCA_982679575.1,SAMEA122233284,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09765715_MAG_00000005,56799,GCA_982686845.1,SAMEA122233287,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BRAK15-1_SAMN03392593_MAG_00000028,56799,GCA_982722085.1,SAMEA122249003,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BRAK15-1_SAMN03392593_MAG_00000049,56799,GCA_982727295.1,SAMEA122249018,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BRAK15-1_SAMN03392593_MAG_00000050,56799,GCA_982724225.1,SAMEA122249019,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BRAK15-1_SAMN03392593_MAG_00000051,56799,GCA_982718495.1,SAMEA122249020,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BRAK15-1_SAMN03392593_MAG_00000066,56799,GCA_982720045.1,SAMEA122249027,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BRAK15-1_SAMN03392594_MAG_00000005,56799,GCA_982728245.1,SAMEA122249032,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BRAK15-1_SAMN03392594_MAG_00000009,56799,GCA_982728205.1,SAMEA122249035,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BRAK15-1_SAMN03392594_MAG_00000012,56799,GCA_982717755.1,SAMEA122249038,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BRAK15-1_SAMN03392594_MAG_00000015,56799,GCA_982719845.1,SAMEA122249040,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BRAK15-1_SAMN03392596_MAG_00000014,56799,GCA_982719585.1,SAMEA122249048,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BRAK15-1_SAMN03392596_MAG_00000017,56799,GCA_982724195.1,SAMEA122249049,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BRAK15-1_SAMN03392596_MAG_00000020,56799,GCA_982721385.1,SAMEA122249051,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BRAK15-1_SAMN03392596_MAG_00000028,56799,GCA_982728305.1,SAMEA122249056,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BRAK15-1_SAMN03392596_MAG_00000030,56799,GCF_982724155.1,SAMEA122249057,Confirmed ortholog,1,WP_487936542.1,96.3,100.0,629.0,6.0,0.0
+Colwellia sp.,Colwellia,BRAK15-1_SAMN03392596_MAG_00000031,56799,GCA_982723625.1,SAMEA122249058,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BRAK15-1_SAMN03392596_MAG_00000037,56799,GCA_982715755.1,SAMEA122249062,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BRAK15-1_SAMN03392596_MAG_00000056,56799,GCA_982726095.1,SAMEA122249069,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BRAK15-1_SAMN03392597_MAG_00000013,56799,GCA_982724125.1,SAMEA122249074,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BRAK15-1_SAMN03392600_MAG_00000003,56799,GCA_982757255.1,SAMEA122249090,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BRAK15-1_SAMN03392600_MAG_00000005,56799,GCA_982723985.1,SAMEA122249092,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BRAK15-1_SAMN03392600_MAG_00000006,56799,GCA_982723945.1,SAMEA122249093,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BRAK15-1_SAMN03392600_MAG_00000007,56799,GCA_982723915.1,SAMEA122249094,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BRAK15-1_SAMN03392600_MAG_00000009,56799,GCA_982757155.1,SAMEA122249096,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BRAK15-1_SAMN03392601_MAG_00000004,56799,GCA_982757115.1,SAMEA122249101,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BRAK15-1_SAMN03392601_MAG_00000012,56799,GCA_982723865.1,SAMEA122249106,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BRAK15-1_SAMN03392601_MAG_00000017,56799,GCA_982755725.1,SAMEA122249109,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BRAK15-1_SAMN03392601_MAG_00000019,56799,GCA_982757135.1,SAMEA122249110,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BRAK15-1_SAMN03392601_MAG_00000033,56799,GCA_982755615.1,SAMEA122249118,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BRAK15-1_SAMN03392602_MAG_00000006,56799,GCA_982757125.1,SAMEA122249121,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BRAK15-1_SAMN03392602_MAG_00000017,56799,GCA_982723805.1,SAMEA122249128,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BRAK15-1_SAMN03392602_MAG_00000018,56799,GCA_982724375.1,SAMEA122249129,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BRAK15-1_SAMN03392602_MAG_00000021,56799,GCA_982757085.1,SAMEA122249131,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BRAK15-1_SAMN03392602_MAG_00000022,56799,GCA_982724405.1,SAMEA122249132,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BRAK15-1_SAMN03392602_MAG_00000027,56799,GCA_982724325.1,SAMEA122249135,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BRAK15-1_SAMN03392602_MAG_00000033,56799,GCA_982755495.1,SAMEA122249138,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BRAK15-1_SAMN03392603_MAG_00000007,56799,GCA_982755575.1,SAMEA122249141,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BRAK15-1_SAMN03392606_MAG_00000020,56799,GCA_982756985.1,SAMEA122249161,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BRAK15-1_SAMN03392606_MAG_00000023,56799,GCA_982756885.1,SAMEA122249163,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BRAK15-1_SAMN03392607_MAG_00000078,56799,GCA_982758105.1,SAMEA122249201,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BRAK15-1_SAMN03392608_MAG_00000021,56799,GCA_982756705.1,SAMEA122249208,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BRAK15-1_SAMN03433689_MAG_00000001,56799,GCA_982757785.1,SAMEA122249252,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BRAK15-1_SAMN03433689_MAG_00000050,56799,GCA_982757575.1,SAMEA122249281,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BRAK15-1_SAMN03433689_MAG_00000063,56799,GCA_982757535.1,SAMEA122249287,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,BRAK15-1_SAMN03433689_MAG_00000068,56799,GCA_982727145.1,SAMEA122249288,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,C2023_3_bin.4,56799,GCA_982295895.1,SAMEA121961428,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,DHAR22-1_SAMN20209037_MAG_00000033,56799,GCA_982773535.1,SAMEA122256033,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,DHAR22-1_SAMN20209038_MAG_00000010,56799,GCA_982812405.1,SAMEA122256051,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,DOMB16-1_SAMN04262032_MAG_00000031,56799,GCA_982753005.1,SAMEA122255771,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,DT_17,56799,GCF_013215345.1,SAMN14675705,Ambiguous homolog,0,,,,,,
+Colwellia sp.,Colwellia,DT_18,56799,GCA_013215465.1,SAMN14675706,Confirmed ortholog,1,NQY88866.1_MAG:_M1_family_metallopeptidase_[Colwellia_sp.],77.3,100.0,621.0,6.0,8.0
+Colwellia sp.,Colwellia,DT_19,56799,GCA_013215655.1,SAMN14675707,Confirmed ortholog,1,NQZ81376.1_MAG:_M1_family_metallopeptidase_[Colwellia_sp.],78.6,98.9,614.0,6.0,13.0
+Colwellia sp.,Colwellia,DT_20,56799,GCA_013215385.1,SAMN14675708,Confirmed ortholog,1,NQZ22672.1_MAG:_M1_family_metallopeptidase_[Colwellia_sp.],77.9,94.8,616.0,6.0,8.0
+Colwellia sp.,Colwellia,DT_21,56799,GCA_013215295.1,SAMN14675709,Confirmed ortholog,1,NQZ88079.1_MAG:_M1_family_metallopeptidase_[Colwellia_sp.],78.2,94.8,616.0,6.0,8.0
+Colwellia sp.,Colwellia,DT_22,56799,GCF_013214175.1,SAMN14675710,Confirmed ortholog,1,WP_291618377.1,89.0,100.0,629.0,6.0,0.0
+Colwellia sp.,Colwellia,DUAR15-1_SAMN06266101_MAG_00000011,56799,GCA_982781115.1,SAMEA122255898,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,G12,56799,GCA_016735195.1,SAMN17227922,Ambiguous homolog,0,,,,,,
+Colwellia sp.,Colwellia,Glo_8,56799,GCA_003354085.1,SAMN08108699,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,HBSea_ice_MAG1340,56799,GCA_034112405.1,SAMN37641289,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,HBSea_ice_MAG208,56799,GCA_034112025.1,SAMN37641304,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,HBSea_ice_MAG657,56799,GCA_034111385.1,SAMN37641340,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,HBSea_ice_MAG756,56799,GCA_034111045.1,SAMN37641356,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,HBSea_ice_MAG920,56799,GCA_034110585.1,SAMN37641378,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,KRUG19-1_SAMN03169777_MAG_00000064,56799,GCA_982850105.1,SAMEA122295951,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,LAHBgam6,56799,GCA_058133135.1,SAMN49747994,Confirmed ortholog,1,MHW6857494.1_MAG:_M1_family_metallopeptidase_[Colwellia_sp.],76.8,100.0,621.0,6.0,8.0
+Colwellia sp.,Colwellia,LAHBgam7,56799,GCA_058135895.1,SAMN49747985,Confirmed ortholog,1,MHW6925743.1_MAG:_M1_family_metallopeptidase_[Colwellia_sp.],78.7,100.0,622.0,6.0,8.0
+Colwellia sp.,Colwellia,LAHBgam8,56799,GCF_058135875.1,SAMN49747986,Confirmed ortholog,1,WP_490034852.1,89.7,100.0,629.0,6.0,0.0
+Colwellia sp.,Colwellia,MAG-91,56799,GCA_020630795.1,SAMN19030453,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,MAG-BB-13,56799,GCA_012974385.1,SAMN12272025,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,MEYE16-2_SAMN03458685_MAG_00000012,56799,GCA_982964775.1,SAMEA122306030,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,MEYE16-2_SAMN03458686_MAG_00000008,56799,GCA_982969105.1,SAMEA122306049,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,MEYE16-2_SAMN03458688_MAG_00000016,56799,GCA_982987115.1,SAMEA122306064,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,MEYE16-2_SAMN03458688_MAG_00000052,56799,GCA_982979085.1,SAMEA122306083,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,MEYE16-2_SAMN03458688_MAG_00000056,56799,GCA_982970665.1,SAMEA122306085,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,ME_XS_2210_bin_40,56799,GCA_049607625.1,SAMN46376536,Confirmed ortholog,1,MGB0938287.1_MAG:_M1_family_metallopeptidase_[Colwellia_sp.],79.4,95.1,607.0,6.0,8.0
+Colwellia sp.,Colwellia,MIRAE2_sed1_maxbin_003,56799,GCF_056174425.1,SAMN54577808,Confirmed ortholog,1,WP_475576422.1,93.8,100.0,634.0,6.0,0.0
+Colwellia sp.,Colwellia,MOW.maxbin2.007,56799,GCA_029938115.1,SAMN30800938,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,N1D-Bin_20,56799,GCA_026195995.1,SAMN31562257,Confirmed ortholog,1,MCW9080304.1_MAG:_M1_family_metallopeptidase_[Colwellia_sp.],83.1,94.9,619.0,6.0,8.0
+Colwellia sp.,Colwellia,N1M-Bin_8,56799,GCA_026196955.1,SAMN31562325,Confirmed ortholog,1,MCW8865888.1_MAG:_M1_family_metallopeptidase_[Colwellia_sp.],83.1,94.9,619.0,6.0,8.0
+Colwellia sp.,Colwellia,N2S-Bin_10,56799,GCA_026193635.1,SAMN31562298,Confirmed ortholog,1,MCW8831842.1_MAG:_M1_family_metallopeptidase_[Colwellia_sp.],83.1,94.9,619.0,6.0,8.0
+Colwellia sp.,Colwellia,NORP201,56799,GCA_016765685.1,SAMN17309466,Not detected,0,,,,,,
+Colwellia sp.,Colwellia,NORP207,56799,GCA_016765455.1,SAMN17309472,Ambiguous homolog,0,,,,,,
+Colwellia sp.,Colwellia,NORP236,56799,GCA_016765005.1,SAMN17309494,Confirmed ortholog,1,MBL4822171.1_MAG:_M1_family_metallopeptidase_[Colwellia_sp.],77.3,100.0,621.0,6.0,8.0
+Colwellia sp.,Colwellia,NORP262,56799,GCA_016764575.1,SAMN17309516,Confirmed ortholog,1,MBL4764174.1_MAG:_M1_family_metallopeptidase_[Colwellia_sp.],77.1,100.0,621.0,6.0,8.0
+Colwellia sp.,Colwellia,NORP29,56799,GCA_002733765.1,SAMN07568843,Confirmed ortholog,1,PHR85321.1_MAG:_aminopeptidase_[Colwellia_sp.],79.4,94.9,619.0,6.0,8.0
+Colwellia sp.,Colwellia,NORP5,56799,GCA_002734005.2,SAMN07568819,Confirmed ortholog,1,MBL1385776.1_MAG:_M1_family_metallopeptidase_[Colwellia_sp.],64.0,94.6,613.0,6.0,9.0
+Colwellia sp.,Colwellia,OV011_6,56799,GCA_041224185.1,SAMN37094226,Not detected,0,,,,,,
+Colwellia sp.,Colwellia,P24860_115_MAG_137,56799,GCA_041891085.1,SAMN34587699,Ambiguous homolog,0,,,,,,
+Colwellia sp.,Colwellia,REMEI102_ass_metaspades_bin.20,56799,GCA_042091395.1,SAMN39685470,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,SRR2226463_bin_7,56799,GCA_061458625.1,SAMN61525989,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,SRR5988123_bin_6,56799,GCA_061464225.1,SAMN61526586,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,T527-G1-95_bin.42,56799,GCA_053998815.1,SAMN47791452,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,TARA_SAMEA4397280_MAG_00000062,56799,GCA_984407225.1,SAMEA122635342,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,TARA_SAMEA4398413_MAG_00000212,56799,GCA_984056305.1,SAMEA122616686,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,UBA10809,56799,GCA_003520945.1,SAMN08019632,Confirmed ortholog,1,"HBY86620.1_MAG_TPA:_aminopeptidase,_partial_[Colwellia_sp.]",96.4,93.2,586.0,6.0,19.0
+Colwellia sp.,Colwellia,UBA8227,56799,GCA_003545415.1,SAMN08018792,Confirmed ortholog,1,HCM47052.1_MAG_TPA:_aminopeptidase_[Colwellia_sp.],89.9,100.0,634.0,6.0,0.0
+Colwellia sp.,Colwellia,UBA8680,56799,GCA_003521815.1,SAMN08019792,Ambiguous homolog,0,,,,,,
+Colwellia sp.,Colwellia,Vin_5,56799,GCA_024228455.1,SAMN13632763,Confirmed ortholog,1,MCP4992119.1_MAG:_M1_family_metallopeptidase_[Colwellia_sp.],90.0,100.0,629.0,6.0,0.0
+Colwellia sp.,Colwellia,bin.13b,56799,GCA_037132835.1,SAMN39932064,Confirmed ortholog,1,MEI6895334.1_MAG:_M1_family_metallopeptidase_[Colwellia_sp.],85.8,95.4,602.0,6.0,4.0
+Colwellia sp.,Colwellia,bin.17,56799,GCA_024679515.1,SAMN20394138,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,bin.61,56799,GCA_024679495.1,SAMN20394139,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,bin20,56799,GCA_003325785.1,SAMN08581023,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,bin21,56799,GCA_003325815.1,SAMN08581024,Not assessable,0,,,,,,
+Colwellia sp.,Colwellia,tPB_Gamm1,56799,GCA_051531915.1,SAMN30996860,Confirmed ortholog,1,MGL1958676.1_MAG:_M1_family_metallopeptidase_[Colwellia_sp.],78.8,99.0,631.0,6.0,8.0
+Colwellia sp. 12G3,Colwellia,12G3,2058299,GCF_002836775.1,SAMN08125734,Confirmed ortholog,1,WP_101232136.1,91.6,100.0,634.0,6.0,0.0
+Colwellia sp. 1_MG-2023,Colwellia,C2M19,3062649,GCF_030548105.1,SAMN36510965,Confirmed ortholog,1,WP_215972735.1,76.9,100.0,619.0,6.0,8.0
+Colwellia sp. 1_MG-2023,Colwellia,I2R04,3062649,GCF_030546755.1,SAMN36511027,Ambiguous homolog,0,,,,,,
+Colwellia sp. 20A7,Colwellia,20A7,2689569,GCF_009832865.1,SAMN13609927,Confirmed ortholog,1,WP_159819556.1,80.4,94.8,619.0,6.0,8.0
+Colwellia sp. 2_MG-2023,Colwellia,C2R07,3062650,GCF_030548055.1,SAMN36510966,Confirmed ortholog,1,WP_215972735.1,76.9,100.0,619.0,6.0,8.0
+Colwellia sp. 39_35_sub15_T18,Colwellia,39_35_sub15_T18,1856279,GCA_002162675.1,SAMN05179552,Confirmed ortholog,1,OUR62821.1_aminopeptidase_[Colwellia_sp._39_35_sub15_T18],80.4,95.7,621.0,6.0,8.0
+Colwellia sp. 3_MG-2023,Colwellia,C3R04,3062654,GCF_030547295.1,SAMN36510973,Confirmed ortholog,1,WP_215972735.1,76.9,100.0,619.0,6.0,8.0
+Colwellia sp. 4_MG-2023,Colwellia,F1R02,3062668,GCF_030547125.1,SAMN36510995,Confirmed ortholog,1,WP_303610547.1,76.9,100.0,619.0,6.0,8.0
+Colwellia sp. 5_MG-2023,Colwellia,G1M14,3062673,GCF_030547795.1,SAMN36511009,Confirmed ortholog,1,WP_303610547.1,76.9,100.0,619.0,6.0,8.0
+Colwellia sp. 6M3,Colwellia,6M3,2759849,GCF_014077595.1,SAMN15642343,Confirmed ortholog,1,WP_404842740.1,76.1,94.3,615.0,6.0,8.0
+Colwellia sp. 6_MG-2023,Colwellia,G3M07,3062676,GCF_030547765.1,SAMN36511016,Confirmed ortholog,1,WP_303602548.1,77.1,100.0,619.0,6.0,8.0
+Colwellia sp. 75C3,Colwellia,75C3,888425,GCF_002836255.1,SAMN08125738,Confirmed ortholog,1,WP_101226962.1,91.2,100.0,634.0,6.0,0.0
+Colwellia sp. 8_GOM-1096m,Colwellia,8_GOM-1096m,1380381,GCA_000712155.1,SAMN02744692,Confirmed ortholog,1,WP_033103521.1,64.4,93.8,613.0,6.0,9.0
+Colwellia sp. Arc7-635,Colwellia,Arc7-635,2497879,GCF_003971255.1,SAMN10614016,Confirmed ortholog,1,WP_241238946.1,75.0,94.3,610.0,6.0,8.0
+Colwellia sp. Arc7-D,Colwellia,Arc7-D,2161872,GCF_003061515.1,SAMN08912473,Confirmed ortholog,1,WP_108456594.1,75.7,94.3,619.0,6.0,8.0
+Colwellia sp. BRX10-1,Colwellia,BRX10-1,2759846,GCF_014077545.1,SAMN15641862,Confirmed ortholog,1,WP_182222366.1,79.0,94.8,616.0,6.0,8.0
+Colwellia sp. BRX10-2,Colwellia,BRX10-2,2759845,GCF_014077515.1,SAMN15641863,Confirmed ortholog,1,WP_182222366.1,79.0,94.8,616.0,6.0,8.0
+Colwellia sp. BRX10-3,Colwellia,BRX10-3,2759844,GCF_014077505.1,SAMN15641864,Confirmed ortholog,1,WP_182132466.1,75.9,94.3,619.0,6.0,8.0
+Colwellia sp. BRX10-4,Colwellia,BRX10-4,2759843,GCF_014077465.1,SAMN15641865,Confirmed ortholog,1,WP_182175743.1,78.0,94.8,616.0,6.0,8.0
+Colwellia sp. BRX10-5,Colwellia,BRX10-5,2759842,GCF_014077435.1,SAMN15641866,Confirmed ortholog,1,WP_182222366.1,79.0,94.8,616.0,6.0,8.0
+Colwellia sp. BRX10-6,Colwellia,BRX10-6,2759841,GCF_014077455.1,SAMN15641867,Confirmed ortholog,1,WP_182216313.1,78.9,94.8,616.0,6.0,8.0
+Colwellia sp. BRX10-7,Colwellia,BRX10-7,2759840,GCF_014077415.1,SAMN15641868,Confirmed ortholog,1,WP_182222366.1,79.0,94.8,616.0,6.0,8.0
+Colwellia sp. BRX10-9,Colwellia,BRX10-9,2759839,GCF_014077405.1,SAMN15641869,Confirmed ortholog,1,WP_182216313.1,78.9,94.8,616.0,6.0,8.0
+Colwellia sp. BRX8-2,Colwellia,BRX8-2,2759838,GCF_014077375.1,SAMN15641870,Confirmed ortholog,1,WP_182216313.1,78.9,94.8,616.0,6.0,8.0
+Colwellia sp. BRX8-3,Colwellia,BRX8-3,2759837,GCF_014077355.1,SAMN15641871,Confirmed ortholog,1,WP_182216313.1,78.9,94.8,616.0,6.0,8.0
+Colwellia sp. BRX8-4,Colwellia,BRX8-4,2759836,GCF_014077345.1,SAMN15641872,Confirmed ortholog,1,WP_182216313.1,78.9,94.8,616.0,6.0,8.0
+Colwellia sp. BRX8-5,Colwellia,BRX8-5,2759835,GCF_014077325.1,SAMN15641873,Confirmed ortholog,1,WP_182216313.1,78.9,94.8,616.0,6.0,8.0
+Colwellia sp. BRX8-6,Colwellia,BRX8-6,2759834,GCF_014077305.1,SAMN15641874,Confirmed ortholog,1,WP_182216313.1,78.9,94.8,616.0,6.0,8.0
+Colwellia sp. BRX8-7,Colwellia,BRX8-7,2759833,GCF_014077275.1,SAMN15641875,Confirmed ortholog,1,WP_182216313.1,78.9,94.8,616.0,6.0,8.0
+Colwellia sp. BRX8-8,Colwellia,BRX8-8,2759832,GCA_014077265.1,SAMN15641876,Ambiguous homolog,0,,,,,,
+Colwellia sp. BRX8-9,Colwellia,BRX8-9,2759831,GCF_014077245.1,SAMN15641877,Confirmed ortholog,1,WP_182216313.1,78.9,94.8,616.0,6.0,8.0
+Colwellia sp. BRX9-1,Colwellia,BRX9-1,2759830,GCF_014077195.1,SAMN15641878,Confirmed ortholog,1,WP_182216313.1,78.9,94.8,616.0,6.0,8.0
+Colwellia sp. Bg11-12,Colwellia,Bg11-12,2759817,GCF_014076955.1,SAMN15641041,Confirmed ortholog,1,WP_182228865.1,78.4,94.8,616.0,6.0,8.0
+Colwellia sp. Bg11-28,Colwellia,Bg11-28,2058305,GCF_002836245.1,SAMN08125749,Confirmed ortholog,1,WP_198560051.1,99.8,100.0,629.0,6.0,0.0
+Colwellia sp. C1TZA3,Colwellia,C1TZA3,2508879,GCF_007954265.1,SAMN10786015,Confirmed ortholog,1,WP_146878369.1,76.1,94.3,619.0,6.0,8.0
+Colwellia sp. C2M11,Colwellia,C2M11,2841566,GCF_018860915.1,SAMN19350933,Confirmed ortholog,1,WP_215972735.1,76.9,100.0,619.0,6.0,8.0
+Colwellia sp. D2M02,Colwellia,D2M02,2841562,GCF_018860755.1,SAMN19350940,Confirmed ortholog,1,WP_215980421.1,83.0,100.0,629.0,6.0,3.0
+Colwellia sp. E150_009,Colwellia,E150_009,3344415,GCF_053543955.1,SAMN43548681,Confirmed ortholog,1,WP_448894692.1,81.0,94.8,622.0,6.0,8.0
+Colwellia sp. E2M01,Colwellia,E2M01,2841561,GCF_018860585.1,SAMN19350945,Ambiguous homolog,0,,,,,,
+Colwellia sp. ESRF-bin12,Colwellia,ESRF-bin12,2011145,GCA_002632005.1,SAMN07255337,Not assessable,0,,,,,,
+Colwellia sp. ESRF-bin23,Colwellia,ESRF-bin23,2011152,GCA_002631935.1,SAMN07255344,Not assessable,0,,,,,,
+Colwellia sp. ESRF-bin71,Colwellia,ESRF-bin71,2011157,GCA_002631845.1,SAMN07255349,Not assessable,0,,,,,,
+Colwellia sp. ESRF-bin9,Colwellia,ESRF-bin9,2011151,GCA_002631945.1,SAMN07255343,Not assessable,0,,,,,,
+Colwellia sp. F1,Colwellia,F1,3695552,GCF_056238625.1,SAMN56505701,Confirmed ortholog,1,WP_475659303.1,79.2,94.1,619.0,6.0,8.0
+Colwellia sp. KS18-150,Colwellia,KS18-150,3459212,GCF_057551365.1,SAMD01680987,Confirmed ortholog,1,WP_487055071.1,81.8,94.1,615.0,6.0,8.0
+Colwellia sp. KU-HH00111,Colwellia,KU-HH00111,3127652,GCF_040362745.1,SAMD00755688,Confirmed ortholog,1,WP_353539017.1,78.2,100.0,622.0,6.0,8.0
+Colwellia sp. M166,Colwellia,M166,2583805,GCF_024585285.1,SAMN11842394,Confirmed ortholog,1,WP_257172908.1,75.0,94.3,619.0,6.0,8.0
+Colwellia sp. MB02u-1,Colwellia,MB02u-1,2759829,GCF_014077215.1,SAMN15641029,Confirmed ortholog,1,WP_182135212.1,76.9,94.3,619.0,6.0,8.0
+Colwellia sp. MB02u-10,Colwellia,MB02u-10,2759828,GCF_014077185.1,SAMN15641030,Confirmed ortholog,1,WP_182237389.1,76.2,94.3,619.0,6.0,8.0
+Colwellia sp. MB02u-11,Colwellia,MB02u-11,2759816,GCF_014076925.1,SAMN15641042,Confirmed ortholog,1,WP_182177891.1,78.0,94.8,616.0,6.0,8.0
+Colwellia sp. MB02u-11,Colwellia,ena-yuan-GCF_014076925.1,2759816,GCF_963889855.1,SAMEA115018279,Confirmed ortholog,1,WP_182177891.1,78.0,94.8,616.0,6.0,8.0
+Colwellia sp. MB02u-12,Colwellia,MB02u-12,2759827,GCF_014077155.1,SAMN15641031,Confirmed ortholog,1,WP_182135212.1,76.9,94.3,619.0,6.0,8.0
+Colwellia sp. MB02u-14,Colwellia,MB02u-14,2759815,GCF_014076915.1,SAMN15641043,Confirmed ortholog,1,WP_182224259.1,78.2,94.8,616.0,6.0,8.0
+Colwellia sp. MB02u-18,Colwellia,MB02u-18,2759826,GCF_014077125.1,SAMN15641032,Confirmed ortholog,1,WP_182135212.1,76.9,94.3,619.0,6.0,8.0
+Colwellia sp. MB02u-19,Colwellia,MB02u-19,2759825,GCF_014077115.1,SAMN15641033,Confirmed ortholog,1,WP_182135212.1,76.9,94.3,619.0,6.0,8.0
+Colwellia sp. MB02u-6,Colwellia,MB02u-6,2759824,GCF_014077095.1,SAMN15641034,Confirmed ortholog,1,WP_182232998.1,76.7,94.3,619.0,6.0,8.0
+Colwellia sp. MB02u-7,Colwellia,MB02u-7,2759814,GCF_014076905.1,SAMN15641044,Confirmed ortholog,1,WP_182177891.1,78.0,94.8,616.0,6.0,8.0
+Colwellia sp. MB02u-7,Colwellia,ena-yuan-GCF_014076905.1,2759814,GCF_963889665.1,SAMEA115018278,Confirmed ortholog,1,WP_182177891.1,78.0,94.8,616.0,6.0,8.0
+Colwellia sp. MB02u-9,Colwellia,MB02u-9,2759823,GCF_014077085.1,SAMN15641035,Confirmed ortholog,1,WP_182194206.1,76.7,94.3,619.0,6.0,8.0
+Colwellia sp. MB3u-22,Colwellia,MB3u-22,2759813,GCF_014076885.1,SAMN15641045,Confirmed ortholog,1,WP_182177891.1,78.0,94.8,616.0,6.0,8.0
+Colwellia sp. MB3u-22,Colwellia,ena-yuan-GCF_014076885.1,2759813,GCF_963890005.1,SAMEA115018277,Confirmed ortholog,1,WP_182177891.1,78.0,94.8,616.0,6.0,8.0
+Colwellia sp. MB3u-28,Colwellia,MB3u-28,2759812,GCF_014076795.1,SAMN15641046,Confirmed ortholog,1,WP_182223275.1,78.2,94.8,616.0,6.0,8.0
+Colwellia sp. MB3u-28,Colwellia,ena-yuan-GCF_014076795.1,2759812,GCF_963890185.1,SAMEA115018274,Confirmed ortholog,1,WP_182223275.1,78.2,94.8,616.0,6.0,8.0
+Colwellia sp. MB3u-4,Colwellia,MB3u-4,2759822,GCF_014077065.1,SAMN15641036,Confirmed ortholog,1,WP_182183032.1,76.6,94.3,619.0,6.0,8.0
+Colwellia sp. MB3u-41,Colwellia,MB3u-41,2759811,GCF_014076845.1,SAMN15641047,Confirmed ortholog,1,WP_182223275.1,78.2,94.8,616.0,6.0,8.0
+Colwellia sp. MB3u-41,Colwellia,ena-yuan-GCF_014076845.1,2759811,GCF_963890125.1,SAMEA115018276,Confirmed ortholog,1,WP_182223275.1,78.2,94.8,616.0,6.0,8.0
+Colwellia sp. MB3u-43,Colwellia,MB3u-43,2759821,GCF_014076995.1,SAMN15641037,Confirmed ortholog,1,WP_182135212.1,76.9,94.3,619.0,6.0,8.0
+Colwellia sp. MB3u-45,Colwellia,MB3u-45,2759820,GCF_014077005.1,SAMN15641038,Confirmed ortholog,1,WP_182135212.1,76.9,94.3,619.0,6.0,8.0
+Colwellia sp. MB3u-55,Colwellia,MB3u-55,2759810,GCF_014076785.1,SAMN15641048,Confirmed ortholog,1,WP_182175743.1,78.0,94.8,616.0,6.0,8.0
+Colwellia sp. MB3u-64,Colwellia,MB3u-64,2759809,GCF_014076835.1,SAMN15641049,Confirmed ortholog,1,WP_182177891.1,78.0,94.8,616.0,6.0,8.0
+Colwellia sp. MB3u-64,Colwellia,ena-yuan-GCF_014076835.1,2759809,GCF_963890335.1,SAMEA115018275,Confirmed ortholog,1,WP_182177891.1,78.0,94.8,616.0,6.0,8.0
+Colwellia sp. MB3u-70,Colwellia,MB3u-70,2759819,GCF_014077045.1,SAMN15641039,Confirmed ortholog,1,WP_182189148.1,76.6,94.3,619.0,6.0,8.0
+Colwellia sp. MB3u-8,Colwellia,MB3u-8,2759818,GCF_014076985.1,SAMN15641040,Confirmed ortholog,1,WP_182189148.1,76.6,94.3,619.0,6.0,8.0
+Colwellia sp. MEBiC06753,Colwellia,MEBiC06753,3456552,GCF_053470325.1,SAMN47328687,Confirmed ortholog,1,WP_448211132.1,69.5,94.4,613.0,6.0,8.0
+Colwellia sp. MT2012,Colwellia,MT2012,1718921,GCF_001432325.1,SAMN04092639,Confirmed ortholog,1,WP_057181507.1,88.7,100.0,629.0,6.0,0.0
+Colwellia sp. MT41,Colwellia,MT41,58049,GCF_001444365.1,SAMN04255090,Confirmed ortholog,1,WP_058027376.1,89.0,100.0,629.0,6.0,0.0
+Colwellia sp. NW0002-52-1,Colwellia,NW0002-52-1,3459208,GCF_057550865.1,SAMD01680979,Confirmed ortholog,1,WP_487106320.1,72.5,99.8,619.0,6.0,8.0
+Colwellia sp. PAMC 20917,Colwellia,PAMC 20917,1816218,GCF_001767295.1,SAMN04562546,Confirmed ortholog,1,WP_070376464.1,78.2,94.8,616.0,6.0,8.0
+Colwellia sp. PAMC 21821,Colwellia,PAMC 21821,1816219,GCF_002077175.1,SAMN04562547,Confirmed ortholog,1,WP_231295863.1,75.7,94.3,609.0,6.0,8.0
+Colwellia sp. Phe_37,Colwellia,Phe_37,1795872,GCA_001566895.1,SAMN04458762,Ambiguous homolog,0,,,,,,
+Colwellia sp. RE-S-Sl-9,Colwellia,RE-S-Sl-9,3400268,GCF_048296855.1,SAMN46815664,Confirmed ortholog,1,WP_473615871.1,78.1,94.3,614.0,6.0,8.0
+Colwellia sp. RSH04,Colwellia,RSH04,2305464,GCF_003545765.1,SAMN09916314,Confirmed ortholog,1,WP_118959085.1,45.2,93.8,594.0,6.0,16.0
+Colwellia sp. SU-HH00943,Colwellia,SU-HH00943,3459209,GCF_057546125.1,SAMD01680981,Confirmed ortholog,1,WP_487094739.1,75.3,99.8,619.0,6.0,8.0
+Colwellia sp. SU-HH01172,Colwellia,SU-HH01172,3459211,GCF_057553355.1,SAMD01680986,Confirmed ortholog,1,WP_487115331.1,72.8,97.1,619.0,6.0,8.0
+Colwellia sp. SU-HH01217,Colwellia,SU-HH01217,3459210,GCF_057543495.1,SAMD01680982,Confirmed ortholog,2,WP_487119977.1;WP_487121200.1,75.1,94.0,612.0,6.0,8.0
+Colwellia sp. TT2012,Colwellia,TT2012,1720342,GCF_001440345.1,SAMN04096880,Confirmed ortholog,1,WP_057832251.1,89.0,100.0,629.0,6.0,0.0
+Colwellia sp. UCD-KL20,Colwellia,UCD-KL20,1917165,GCA_001957175.1,SAMN06007765,Confirmed ortholog,1,WP_076419023.1,76.9,94.3,615.0,6.0,8.0
+uncultured Colwellia sp.,Colwellia,46f9b57c-7436-4363-8f7f-1b93e34605fe,154336,GCA_965261045.1,SAMEA117994292,Not assessable,0,,,,,,
+uncultured Colwellia sp.,Colwellia,ERR2762158_binner12_Refined_40,154336,GCA_963977045.1,SAMEA115300645,Not assessable,0,,,,,,
+uncultured Colwellia sp.,Colwellia,ERR2762166_binner12_Refined_10,154336,GCA_963977145.1,SAMEA115300694,Not assessable,0,,,,,,
+uncultured Colwellia sp.,Colwellia,ERR2762171_concoct_228,154336,GCA_963974965.1,SAMEA115300700,Not assessable,0,,,,,,
+uncultured Colwellia sp.,Colwellia,ERR2762179_binner12_Refined_53,154336,GCA_963974095.1,SAMEA115300898,Not assessable,0,,,,,,
+uncultured Colwellia sp.,Colwellia,ERR3589562_binner123_55,154336,GCA_963934515.1,SAMEA115178589,Not assessable,0,,,,,,
+uncultured Colwellia sp.,Colwellia,ERR3589584_binner12_70,154336,GCA_963933725.1,SAMEA115178742,Not assessable,0,,,,,,
+uncultured Colwellia sp.,Colwellia,ERR3589586_binner123_39,154336,GCA_963933115.1,SAMEA115178666,Not assessable,0,,,,,,
+uncultured Colwellia sp.,Colwellia,ERR599125_bin.16_MetaBAT_v2.12.1_MAG,154336,GCA_913049915.1,SAMEA9695081,Not assessable,0,,,,,,
+uncultured Colwellia sp.,Colwellia,ERR599125_bin.35_CONCOCT_v1.1_MAG,154336,GCA_937911335.1,SAMEA14075313,Not assessable,0,,,,,,
+uncultured Colwellia sp.,Colwellia,ERR599125_binner12_Refined_4,154336,GCA_964002225.1,SAMEA115419925,Not assessable,0,,,,,,
+uncultured Colwellia sp.,Colwellia,ERR7163068_binner23_25,154336,GCA_964022375.1,SAMEA115172005,Not assessable,0,,,,,,
+uncultured Colwellia sp.,Colwellia,ERR7163071_binner12_101,154336,GCA_964022585.1,SAMEA115172091,Not assessable,0,,,,,,
+uncultured Colwellia sp.,Colwellia,S2_Bin_Bin_3_sub_1,154336,GCA_938091555.1,SAMEA14074298,Not assessable,0,,,,,,
+uncultured Colwellia sp.,Colwellia,S3_Bin_Bin_98_sub_1,154336,GCA_938091075.1,SAMEA14074394,Not assessable,0,,,,,,
+uncultured Colwellia sp.,Colwellia,SRR2018010_maxbin2_1,154336,GCA_965305135.1,SAMEA118413071,Not assessable,0,,,,,,
+uncultured Colwellia sp.,Colwellia,SRR3580187_bin.31_MetaBAT_v2.12.1_MAG,154336,GCA_913063325.1,SAMEA9694995,Not assessable,0,,,,,,
+uncultured Colwellia sp.,Colwellia,SRR3580187_bin.35_MetaBAT_v2.12.1_MAG,154336,GCA_913063115.1,SAMEA9694108,Not assessable,0,,,,,,
+uncultured Colwellia sp.,Colwellia,SRR3580189_bin.45_MetaBAT_v2.12.1_MAG,154336,GCA_913062815.1,SAMEA9694187,Not assessable,0,,,,,,
+uncultured Colwellia sp.,Colwellia,SRR3933167_bin.7_MetaBAT_v2.12.1_MAG,154336,GCA_913061445.1,SAMEA9695142,Not assessable,0,,,,,,
+uncultured Colwellia sp.,Colwellia,SRR3933168_bin.6_MetaBAT_v2.12.1_MAG,154336,GCA_913058405.1,SAMEA9694901,Not assessable,0,,,,,,
+uncultured Colwellia sp.,Colwellia,SRR3933263_bin.3_MetaBAT_v2.12.1_MAG,154336,GCA_913058395.1,SAMEA9695104,Not assessable,0,,,,,,
+uncultured Colwellia sp.,Colwellia,SRR3933264_bin.3_MetaBAT_v2.12.1_MAG,154336,GCA_913061365.1,SAMEA9694234,Not assessable,0,,,,,,
+uncultured Colwellia sp.,Colwellia,SRR3933266_bin.9_MetaBAT_v2.12.1_MAG,154336,GCA_913057925.1,SAMEA9693952,Not assessable,0,,,,,,
+uncultured Colwellia sp.,Colwellia,SRR3933279_bin.2_MetaBAT_v2.12.1_MAG,154336,GCA_913058245.1,SAMEA9694903,Not assessable,0,,,,,,
+uncultured Colwellia sp.,Colwellia,SRR3933282_bin.2_MetaBAT_v2.12.1_MAG,154336,GCA_913061475.1,SAMEA9694201,Not assessable,0,,,,,,
+uncultured Colwellia sp.,Colwellia,SRR3933376_bin.5_MetaBAT_v2.12.1_MAG,154336,GCA_913058145.1,SAMEA9694770,Not assessable,0,,,,,,
+uncultured Colwellia sp.,Colwellia,SRR5469033_bin.19_MetaBAT_v2.12.1_MAG,154336,GCA_913020705.1,SAMEA9694887,Not assessable,0,,,,,,
+Litorilituus lipolyticus,Litorilituus,RZ04,2491017,GCF_006439335.1,SAMN10662229,Confirmed ortholog,1,WP_140602696.1,45.3,93.8,594.0,6.0,16.0
+Litorilituus sediminis,Litorilituus,JCM 17549,718192,GCF_004295665.1,SAMN10662180,Confirmed ortholog,1,WP_130599424.1,44.4,93.6,596.0,6.0,16.0
+Litorilituus sp.,Litorilituus,ETNP20_MAG_10,2489052,GCA_030754235.1,SAMN34270670,Confirmed ortholog,1,MDP7592041.1_MAG:_M1_family_metallopeptidase_[Litorilituus_sp.],79.7,94.8,619.0,6.0,8.0
+Pseudocolwellia agarivorans,Pseudocolwellia,MEBiC07675,1911682,GCF_052061675.1,SAMN49861161,Confirmed ortholog,1,WP_441003311.1,77.9,94.3,615.0,6.0,8.0
+Pseudocolwellia agarivorans,Pseudocolwellia,QM50,1911682,GCF_002000085.1,SAMN06309550,Confirmed ortholog,1,WP_077338865.1,77.6,94.3,614.0,6.0,8.0
+Pseudocolwellia antarctica,Pseudocolwellia,HL-MZ19,3400627,GCF_049932575.1,SAMN47739915,Confirmed ortholog,1,WP_426357852.1,77.4,94.3,615.0,6.0,8.0
+Pseudocolwellia antarctica,Pseudocolwellia,HL-MZ7,3400627,GCF_049933045.1,SAMN47739914,Confirmed ortholog,1,WP_426370042.1,77.7,94.3,615.0,6.0,8.0
+Pseudocolwellia sp. AS88,Pseudocolwellia,AS88,3063958,GCF_030551755.1,SAMN36637766,Confirmed ortholog,1,WP_304368190.1,78.2,94.3,615.0,6.0,8.0
+Pseudocolwellia sp. AS88,Pseudocolwellia,AS88,3063958,GCF_038900155.1,SAMN40603976,Confirmed ortholog,1,WP_304368190.1,78.2,94.3,615.0,6.0,8.0
+Pseudocolwellia sp. G5-9,Pseudocolwellia,G5-9,3466929,GCF_055808995.1,SAMN52070435,Confirmed ortholog,1,WP_473615871.1,78.1,94.3,614.0,6.0,8.0
+Thalassomonas actiniarum,Thalassomonas,A5K-106,485447,GCF_000948975.2,SAMN03278135,Confirmed ortholog,1,WP_053042855.1,73.9,100.0,615.0,6.0,8.0
+Thalassomonas haliotis,Thalassomonas,A5K-61T,485448,GCF_028657945.1,SAMN15659788,Confirmed ortholog,1,WP_274054369.1,73.9,99.8,615.0,6.0,8.0
+Thalassomonas sp.,Thalassomonas,3300055174_48,1958755,GCA_047617145.1,SAMN44742087,Not detected,0,,,,,,
+Thalassomonas sp. M1454,Thalassomonas,M1454,2594477,GCF_007097525.1,SAMN12253511,Confirmed ortholog,1,WP_143583192.1,69.9,94.0,616.0,6.0,8.0
+Thalassomonas sp. RHCl1,Thalassomonas,RHCl1,2995320,GCF_947387555.1,SAMEA112151717,Not assessable,0,,,,,,
+Thalassomonas viridans,Thalassomonas,XOM25,137584,GCF_000948985.2,SAMN03278134,Confirmed ortholog,1,WP_053046478.1,73.1,100.0,615.0,6.0,8.0
+Thalassotalea agariperforans,Thalassotalea,M-M1,864068,GCF_053470345.1,SAMN49888070,Confirmed ortholog,1,WP_448248704.1,61.4,99.8,640.0,6.0,8.0
+Thalassotalea agarivorans,Thalassotalea,DSM 19706,349064,GCF_900111755.1,SAMN05660429,Not assessable,0,,,,,,
+Thalassotalea agarivorans,Thalassotalea,JCM 13379,349064,GCF_030295955.1,SAMD00582805,Confirmed ortholog,1,WP_093328268.1,69.7,93.8,611.0,6.0,11.0
+Thalassotalea algicola,Thalassotalea,M1531,2716224,GCF_012932965.1,SAMN14675136,Confirmed ortholog,1,WP_169076516.1,72.2,94.4,613.0,6.0,8.0
+Thalassotalea aquiviva,Thalassotalea,273M-4,3242415,GCF_041410465.1,SAMN43141348,Confirmed ortholog,1,WP_371378496.1,70.3,94.3,614.0,6.0,8.0
+Thalassotalea atypica,Thalassotalea,JCM 31894,2054316,GCF_030295975.1,SAMD00582806,Confirmed ortholog,1,WP_286266279.1,69.5,94.3,614.0,6.0,8.0
+Thalassotalea castellviae,Thalassotalea,W431,3075612,GCF_031846185.1,SAMN37377065,Ambiguous homolog,0,,,,,,
+Thalassotalea coralli,Thalassotalea,KCTC 52169,1776033,GCF_055786205.1,SAMN47328642,Ambiguous homolog,0,,,,,,
+Thalassotalea crassostreae,Thalassotalea,LPB0090,1763536,GCF_001652445.1,SAMN04394586,Confirmed ortholog,1,WP_068545278.1,67.2,98.4,623.0,6.0,8.0
+Thalassotalea crassostreae,Thalassotalea,LPB0090,1763536,GCF_001831495.1,SAMN05725820,Confirmed ortholog,1,WP_068545278.1,67.2,98.4,623.0,6.0,8.0
+Thalassotalea euphylliae,Thalassotalea,H1,1655234,GCF_003390335.1,SAMN09762563,Confirmed ortholog,1,WP_116007486.1,71.7,93.8,613.0,6.0,8.0
+Thalassotalea euphylliae,Thalassotalea,H2,1655234,GCF_003390395.1,SAMN09762562,Confirmed ortholog,1,WP_115999787.1,72.7,93.8,613.0,6.0,8.0
+Thalassotalea euphylliae,Thalassotalea,H3,1655234,GCF_003390375.1,SAMN09762564,Confirmed ortholog,1,WP_116014063.1,72.7,93.8,613.0,6.0,8.0
+Thalassotalea euphylliae,Thalassotalea,KCTC 42743,1655234,GCF_042682785.1,SAMN43282532,Confirmed ortholog,1,WP_386032468.1,70.7,94.4,614.0,6.0,8.0
+Thalassotalea eurytherma,Thalassotalea,JCM 18482,1144278,GCF_030161415.1,SAMD00582808,Confirmed ortholog,1,WP_284208660.1,70.4,94.4,608.0,6.0,8.0
+Thalassotalea fonticola,Thalassotalea,S1-1,3065649,GCF_032911225.1,SAMN37286303,Confirmed ortholog,1,WP_348397581.1,67.5,94.4,616.0,6.0,8.0
+Thalassotalea fusca,Thalassotalea,G-MB1,1390224,GCF_053485835.1,SAMN49888068,Confirmed ortholog,1,WP_448547202.1,72.5,94.9,617.0,6.0,8.0
+Thalassotalea ganghwensis,Thalassotalea,JC2041,221989,GCF_053485795.1,SAMN49887942,Ambiguous homolog,0,,,,,,
+Thalassotalea hakodatensis,Thalassotalea,PTE2,3030492,GCF_030295995.1,SAMD00582810,Ambiguous homolog,0,,,,,,
+Thalassotalea insulae,Thalassotalea,KCTC 62186,2056778,GCF_030161395.1,SAMD00582807,Ambiguous homolog,0,,,,,,
+Thalassotalea litorea,Thalassotalea,HQB-110,2020715,GCF_043422055.1,SAMN32650253,Confirmed ortholog,1,WP_394176996.1,66.1,94.3,602.0,6.0,8.0
+Thalassotalea litorea,Thalassotalea,HQB-110,2020715,GCF_043642205.1,SAMN43783644,Confirmed ortholog,1,WP_394176996.1,66.1,94.3,602.0,6.0,8.0
+Thalassotalea litorea,Thalassotalea,MCCC 1K03283,2020715,GCF_005843925.1,SAMN11775790,Confirmed ortholog,1,WP_138318341.1,66.5,94.4,602.0,6.0,8.0
+Thalassotalea loyana,Thalassotalea,LMG 22536,280483,GCF_030161435.1,SAMD00582809,Confirmed ortholog,1,WP_407704851.1,65.9,99.7,613.0,6.0,8.0
+Thalassotalea mangrovi,Thalassotalea,ZS-4,2572245,GCF_005116735.1,SAMN11431962,Confirmed ortholog,1,WP_136735430.1,67.1,94.8,622.0,6.0,8.0
+Thalassotalea marina,Thalassotalea,CGMCC 1.12814,1673741,GCF_042677825.1,SAMN43282694,Ambiguous homolog,0,,,,,,
+Thalassotalea marina,Thalassotalea,KCTC 42731,1673741,GCF_014656435.1,SAMD00245652,Ambiguous homolog,0,,,,,,
+Thalassotalea maritima,Thalassotalea,Sam97,3242416,GCF_041379765.1,SAMN43140765,Ambiguous homolog,0,,,,,,
+Thalassotalea montiporae,Thalassotalea,CL-22,570280,GCF_053485855.1,SAMN49888086,Confirmed ortholog,1,WP_448552587.1,72.4,93.8,613.0,6.0,8.0
+Thalassotalea nanhaiensis,Thalassotalea,SQ345,3065648,GCF_031583575.1,SAMN37286375,Confirmed ortholog,1,WP_348386445.1,67.0,94.0,615.0,6.0,8.0
+Thalassotalea piscium,Thalassotalea,DSM 26287,1230533,GCF_014207645.1,SAMN14908345,Ambiguous homolog,0,,,,,,
+Thalassotalea piscium,Thalassotalea,JCM 18590,1230533,GCF_030295935.1,SAMD00582804,Ambiguous homolog,0,,,,,,
+Thalassotalea piscium,Thalassotalea,JCM 18590,1230533,GCF_039544125.1,SAMD00645859,Ambiguous homolog,0,,,,,,
+Thalassotalea piscium,Thalassotalea,KCTC 32144,1230533,GCF_042650065.1,SAMN43281928,Ambiguous homolog,0,,,,,,
+Thalassotalea piscium,Thalassotalea,NK451B,1230533,GCA_049347715.1,SAMN47720328,Ambiguous homolog,0,,,,,,
+Thalassotalea ponticola,Thalassotalea,CECT 8656,1523392,GCF_030409725.1,SAMN35653692,Confirmed ortholog,1,WP_371189882.1,68.4,93.6,615.0,6.0,8.0
+Thalassotalea ponticola,Thalassotalea,KCTC 42155,1523392,GCF_041379045.1,SAMN43141413,Confirmed ortholog,1,WP_371189882.1,68.4,93.6,615.0,6.0,8.0
+Thalassotalea profundi,Thalassotalea,CGMCC 1.15922,2036687,GCF_014653195.1,SAMD00245095,Ambiguous homolog,0,,,,,,
+Thalassotalea psychrophila,Thalassotalea,SQ149,3065647,GCF_031583595.1,SAMN37286350,Confirmed ortholog,1,WP_405054171.1,67.3,94.0,615.0,6.0,8.0
+Thalassotalea sediminis,Thalassotalea,KCTC 42588,1759089,GCF_030295915.1,SAMD00582803,Ambiguous homolog,0,,,,,,
+Thalassotalea sp.,Thalassotalea,0920-S4-B-1.bin.16,1897616,GCA_060783105.1,SAMN47010096,Ambiguous homolog,0,,,,,,
+Thalassotalea sp.,Thalassotalea,ALOHA_ZT_66,1897616,GCA_022448425.1,SAMN25998979,Confirmed ortholog,1,MCH2057682.1_MAG:_M1_family_metallopeptidase_[Thalassotalea_sp.],71.9,93.8,603.0,6.0,13.0
+Thalassotalea sp.,Thalassotalea,D1.bin.9.permissive,1897616,GCA_050301155.1,SAMN44447731,Not assessable,0,,,,,,
+Thalassotalea sp.,Thalassotalea,D1D2.bin.6.strict,1897616,GCA_050300315.1,SAMN44447770,Not assessable,0,,,,,,
+Thalassotalea sp.,Thalassotalea,MAG_38,1897616,GCA_051251725.1,SAMN49712388,Confirmed ortholog,1,MGJ8694356.1_MAG:_M1_family_metallopeptidase_[Thalassotalea_sp.],62.7,93.8,631.0,6.0,8.0
+Thalassotalea sp.,Thalassotalea,ME_XS_2203_1_bin_6,1897616,GCA_049613795.1,SAMN46376374,Ambiguous homolog,0,,,,,,
+Thalassotalea sp.,Thalassotalea,Mix_sand06.2021.04.Z.74,1897616,GCA_041585315.1,SAMN42103211,Not assessable,0,,,,,,
+Thalassotalea sp.,Thalassotalea,REMEI102_ass_metaspades_bin.21,1897616,GCA_042091375.1,SAMN39685471,Not assessable,0,,,,,,
+Thalassotalea sp.,Thalassotalea,SATO17-1_SAMN04961671_MAG_00000007,1897616,GCA_983054755.1,SAMEA122359576,Not assessable,0,,,,,,
+Thalassotalea sp.,Thalassotalea,SP_00005,1897616,GCA_062036510.1,SAMN57494200,Confirmed ortholog,1,MIY2344844.1_MAG:_M1_family_metallopeptidase_[Thalassotalea_sp.],71.7,93.8,612.0,6.0,8.0
+Thalassotalea sp.,Thalassotalea,cluster1_bin.20,1897616,GCA_029237915.1,SAMN32744222,Confirmed ortholog,1,MDG1731919.1_MAG:_M1_family_metallopeptidase_[Thalassotalea_sp.],68.7,94.0,616.0,6.0,8.0
+Thalassotalea sp.,Thalassotalea,cluster1_bin.30,1897616,GCA_029249355.1,SAMN32744233,Ambiguous homolog,0,,,,,,
+Thalassotalea sp.,Thalassotalea,cluster2_bin.65,1897616,GCA_029243065.1,SAMN32744524,Ambiguous homolog,0,,,,,,
+Thalassotalea sp. 1_MG-2023,Thalassotalea,I3M08,3062680,GCF_030546745.1,SAMN36511028,Ambiguous homolog,0,,,,,,
+Thalassotalea sp. 42_200_T64,Thalassotalea,42_200_T64,1856287,GCA_002162925.1,SAMN05179576,Confirmed ortholog,1,OUS23263.1_aminopeptidase_[Thalassotalea_sp._42_200_T64],68.4,94.0,616.0,6.0,8.0
+Thalassotalea sp. G20_0,Thalassotalea,G20_0,2821093,GCF_017744175.1,SAMN18440235,Ambiguous homolog,0,,,,,,
+Thalassotalea sp. G2M2-11,Thalassotalea,G2M2-11,2787627,GCF_017168195.1,SAMN16746169,Ambiguous homolog,0,,,,,,
+Thalassotalea sp. HSM 43,Thalassotalea,HSM 43,2552945,GCF_004752005.1,SAMN11124334,Confirmed ortholog,1,WP_135439842.1,68.3,94.8,616.0,6.0,8.0
+Thalassotalea sp. LPB0316,Thalassotalea,LPB0316,2769490,GCF_014898095.1,SAMN16365383,Confirmed ortholog,1,WP_193023844.1,67.7,98.6,607.0,6.0,9.0
+Thalassotalea sp. MEBiC06624,Thalassotalea,MEBiC06624,3844489,GCF_060677385.1,SAMN62667666,Confirmed ortholog,1,WP_506178995.1,71.4,94.4,614.0,6.0,8.0
+Thalassotalea sp. ND16A,Thalassotalea,ND16A,1535422,GCF_000764205.1,SAMN02989441,Confirmed ortholog,1,WP_033077892.1,69.1,94.1,616.0,6.0,8.0
+Thalassotalea sp. NO-S15,Thalassotalea,NO-S15,2963419,GCF_060156545.1,SAMN29633195,Confirmed ortholog,1,WP_502615507.1,69.7,94.4,608.0,6.0,8.0
+Thalassotalea sp. PLHSN55,Thalassotalea,PLHSN55,3435888,GCF_052030545.1,SAMN48891704,Confirmed ortholog,1,WP_440874087.1,77.9,94.3,619.0,6.0,8.0
+Thalassotalea sp. PP2-459,Thalassotalea,PP2-459,1742724,GCF_001913705.1,SAMN05821920,Ambiguous homolog,0,,,,,,
+Thalassotalea sp. PS06,Thalassotalea,PS06,2594005,GCF_007197775.1,SAMN12234422,Confirmed ortholog,1,WP_185968106.1,66.8,94.4,603.0,6.0,8.0
+Thalassotalea sp. SU-HH00458,Thalassotalea,SU-HH00458,3127657,GCF_040362795.1,SAMD00755696,Ambiguous homolog,0,,,,,,
+Thalassotalea sp. Y01,Thalassotalea,Y01,2729613,GCF_012932945.1,SAMN14675135,Confirmed ortholog,1,WP_169130150.1,68.6,94.8,616.0,6.0,8.0
+uncultured Thalassotalea sp.,Thalassotalea,454-G.fasta,1618108,GCA_947492575.1,SAMEA112157116,Not assessable,0,,,,,,
+uncultured Thalassotalea sp.,Thalassotalea,455.fasta,1618108,GCA_947493015.1,SAMEA112157115,Not assessable,0,,,,,,
+uncultured Thalassotalea sp.,Thalassotalea,M1454-2.fasta,1618108,GCA_947493415.1,SAMEA112157113,Not assessable,0,,,,,,
+uncultured Thalassotalea sp.,Thalassotalea,M1531a.fasta,1618108,GCA_947493395.1,SAMEA112157114,Not assessable,0,,,,,,
+uncultured Thalassotalea sp.,Thalassotalea,M705a.fasta,1618108,GCA_947501865.1,SAMEA112157111,Not assessable,0,,,,,,
+uncultured Thalassotalea sp.,Thalassotalea,N358-Z.fasta,1618108,GCA_947502355.1,SAMEA112157112,Not assessable,0,,,,,,
+uncultured Thalassotalea sp.,Thalassotalea,S2_Bin_METABAT__198_1,1618108,GCA_938084825.1,SAMEA14074326,Not assessable,0,,,,,,
+uncultured Thalassotalea sp.,Thalassotalea,S2_Bin_METABAT__48_sub_1,1618108,GCA_938075435.1,SAMEA14074352,Not assessable,0,,,,,,
+uncultured Thalassotalea sp.,Thalassotalea,SRP334346_co1_186,1618108,GCA_964620605.1,SAMEA117382247,Not assessable,0,,,,,,
+uncultured Thalassotalea sp.,Thalassotalea,SRR3580189_bin.33_MetaBAT_v2.12.1_MAG,1618108,GCA_913062875.1,SAMEA9695271,Not assessable,0,,,,,,
+Colwelliaceae bacterium,unresolved,ARS1043,2026726,GCA_002688835.1,SAMN07618556,Ambiguous homolog,0,,,,,,
+Colwelliaceae bacterium,unresolved,GY13CL_bin.17,2026726,GCA_023954655.1,SAMN18738641,Ambiguous homolog,0,,,,,,
+Colwelliaceae bacterium 6441,unresolved,6441,3234133,GCA_040779345.1,SAMN40924465,Ambiguous homolog,0,,,,,,
+Colwelliaceae bacterium 6471,unresolved,6471,3234134,GCA_040779335.1,SAMN40924920,Confirmed ortholog,1,MEW6981992.1_M1_family_metallopeptidase_[Colwelliaceae_bacterium_6471],75.4,93.8,614.0,6.0,8.0
+Colwelliaceae bacterium BS250,unresolved,BS250,3138938,GCA_040779355.1,SAMN40924362,Confirmed ortholog,1,MEW6996339.1_M1_family_metallopeptidase_[Colwelliaceae_bacterium_BS250],67.9,94.0,616.0,6.0,8.0
+Colwelliaceae bacterium MEBiC 14330,unresolved,MEBiC 14330,3138937,GCA_040779365.1,SAMN40924334,Confirmed ortholog,1,MEW6992844.1_M1_family_metallopeptidase_[Colwelliaceae_bacterium_MEBiC_14330],86.2,100.0,629.0,6.0,0.0

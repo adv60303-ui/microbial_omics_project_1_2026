@@ -1,0 +1,217 @@
+organism,genus,strain,assembly_accession,colap_status,copy_number,ratkowsky_ogt,ogt_strain_name,ogt_match,has_measured_growth_curve,paper_clade
+Cognaticolwellia aestuarii,Cognaticolwellia,CGMCC1.6965,GCF_002104435.1,Confirmed ortholog,1,27.5,Colwellia aestuarii strain CGMCC1.6965,unique,False,Clade B
+Cognaticolwellia aestuarii,Cognaticolwellia,KCTC 12480,GCF_002000025.1,Confirmed ortholog,1,27.5,Cognaticolwellia aestuarii strain KCTC 12480,unique,False,Clade B
+Cognaticolwellia aestuarii,Cognaticolwellia,SCGC_AH-613-A01,GCA_062014088.1,Confirmed ortholog,1,,,absent,False,
+Cognaticolwellia aestuarii,Cognaticolwellia,SCGC_AH-613-J23,GCA_062013994.1,Confirmed ortholog,1,,,absent,False,
+Cognaticolwellia aestuarii,Cognaticolwellia,SRR3933389_bin.14_MetaBAT_v2.12.1_MAG,GCA_913058005.1,Confirmed ortholog,1,,,absent,False,
+Cognaticolwellia beringensis,Cognaticolwellia,NB097-1,GCF_002076895.1,Confirmed ortholog,1,11.5,Cognaticolwellia beringensis strain NB097-1,unique,False,Clade B
+Cognaticolwellia mytili,Cognaticolwellia,KCTC 52417,GCF_002104475.1,Confirmed ortholog,1,20.0,Cognaticolwellia mytili strain KCTC 52417,unique,False,Clade B
+Cognaticolwellia sediminilitoris,Cognaticolwellia,KCTC 52213,GCA_002104535.1,Confirmed ortholog,1,30.0,Cognaticolwellia sediminilitoris strain KCTC 52213,unique,False,Clade B
+Cognaticolwellia sp.,Cognaticolwellia,3300045789_10,GCA_047634555.1,Confirmed ortholog,1,,,absent,False,
+Cognaticolwellia sp.,Cognaticolwellia,3300045790_13,GCA_047631195.1,Confirmed ortholog,1,,,absent,False,
+Cognaticolwellia sp.,Cognaticolwellia,3300047666_47,GCA_047629795.1,Confirmed ortholog,1,,,absent,False,
+Cognaticolwellia sp.,Cognaticolwellia,3300047666_57,GCA_047629755.1,Confirmed ortholog,1,,,absent,False,
+Cognaticolwellia sp.,Cognaticolwellia,3300053697_105,GCA_047633655.1,Confirmed ortholog,1,,,absent,False,
+Cognaticolwellia sp.,Cognaticolwellia,3300057242_119,GCA_047618745.1,Confirmed ortholog,1,,,absent,False,
+Cognaticolwellia sp.,Cognaticolwellia,ME_XS_2203_1_bin_22,GCA_049614565.1,Confirmed ortholog,1,,,absent,False,
+Cognaticolwellia sp.,Cognaticolwellia,MFD12168_ilm_asm_bin13,GCA_049642265.1,Confirmed ortholog,1,,,absent,False,
+Cognaticolwellia sp.,Cognaticolwellia,MSy50,GCA_062020978.1,Confirmed ortholog,1,,,absent,False,
+Cognaticolwellia sp.,Cognaticolwellia,MSy51,GCF_062020977.1,Confirmed ortholog,1,,,absent,False,
+Cognaticolwellia sp.,Cognaticolwellia,S2022_10_2_bin.31,GCA_056326885.1,Confirmed ortholog,1,,,absent,False,
+Colwellia aquaemaris,Colwellia,4NH60-0063,GCF_057548755.1,Confirmed ortholog,1,,,absent,False,
+Colwellia asteriadis,Colwellia,JCM 15608,GCF_039523295.1,Confirmed ortholog,1,,,absent,False,
+Colwellia chukchiensis,Colwellia,CGMCC 1.9127,GCF_002104455.1,Confirmed ortholog,1,,,absent,False,
+Colwellia demingiae,Colwellia,ACAM 459,GCF_007954275.1,Confirmed ortholog,1,11.0,Colwellia demingiae strain ACAM 459,unique,False,Clade C
+Colwellia hornerae,Colwellia,ACAM 607,GCF_007954355.1,Confirmed ortholog,1,10.5,Colwellia hornerae strain ACAM 607,unique,False,Clade A1
+Colwellia hornerae,Colwellia,IC036,GCF_007954345.1,Confirmed ortholog,1,,,absent,False,Clade A1
+Colwellia hornerae,Colwellia,IC037,GCF_007954305.1,Confirmed ortholog,1,,,absent,False,Clade A1
+Colwellia marinimaniae,Colwellia,MTCD1,GCF_002207865.1,Confirmed ortholog,1,6.0,Colwellia marinimaniae strain MTCD1,unique,False,Clade C
+Colwellia maritima,Colwellia,SU-CL01675,GCF_057540815.1,Confirmed ortholog,1,,,absent,False,
+Colwellia meonggei,Colwellia,4NS20-0109,GCF_057537295.1,Confirmed ortholog,1,,,absent,False,
+Colwellia piezophila ATCC BAA-637,Colwellia,ATCC BAA-637,GCF_000378625.1,Confirmed ortholog,1,15.0,Colwellia piezophila ATCC BAA-637,unique,False,Clade C
+Colwellia polaris,Colwellia,6NakV-04,GCA_036960245.1,Confirmed ortholog,1,,,absent,False,
+Colwellia polaris,Colwellia,MCCC 1C00015,GCF_002104515.1,Confirmed ortholog,1,,,absent,False,
+Colwellia polaris,Colwellia,NW0001-09,GCF_057555225.1,Confirmed ortholog,1,,,absent,False,
+Colwellia polaris,Colwellia,SRR3933305_bin.1_MetaBAT_v2.12.1_MAG,GCA_913060935.1,Confirmed ortholog,1,,,absent,False,
+Colwellia ponticola,Colwellia,OISW-25,GCF_005885605.1,Confirmed ortholog,1,,,absent,False,Clade C
+Colwellia psychrerythraea,Colwellia,GAB14E,GCF_000764185.1,Confirmed ortholog,1,8.0,Colwellia psychrerythraea GAB14E,unique,False,Clade C
+Colwellia psychrerythraea,Colwellia,ND2E,GCF_000764225.1,Confirmed ortholog,1,8.0,Colwellia psychrerythraea ND2E,unique,False,Clade C
+Colwellia psychrerythraea 34H,Colwellia,34H; BAA-681,GCF_000012325.1,Confirmed ortholog,1,9.0,Colwellia psychrerythraea 34H,unique,False,Clade C
+Colwellia sp.,Colwellia,3300053237_8,GCA_046710265.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp.,Colwellia,3300053238_7,GCA_046710205.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp.,Colwellia,3300053697_31,GCA_047633255.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp.,Colwellia,3300053770_104,GCA_047631735.1,Confirmed ortholog,2,,,absent,False,
+Colwellia sp.,Colwellia,3300053784_126,GCA_047609355.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp.,Colwellia,3300054694_119,GCA_047636575.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp.,Colwellia,3300055174_36,GCA_047617065.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp.,Colwellia,3300055293_54,GCA_047617825.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp.,Colwellia,3300055293_70,GCA_051302675.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp.,Colwellia,3300055727_6,GCA_046709525.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp.,Colwellia,3300057219_6,GCA_046710905.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp.,Colwellia,3300058957_1,GCA_046710765.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp.,Colwellia,9NakV-08,GCA_036960545.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp.,Colwellia,ALOHA_DT_125,GCA_022969215.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp.,Colwellia,ALOHA_DT_126,GCA_022969175.1,Confirmed ortholog,2,,,absent,False,
+Colwellia sp.,Colwellia,BAIS20-1_SAMN15458159_MAG_00000054,GCF_982598605.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09710601_MAG_00000004,GCF_982687545.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09765678_MAG_00000011,GCF_982685645.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09765679_MAG_00000008,GCF_982684725.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09765692_MAG_00000010,GCF_982684205.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09765695_MAG_00000011,GCF_982684065.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp.,Colwellia,BOEU19-1_SAMN09765711_MAG_00000024,GCF_982686925.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp.,Colwellia,BRAK15-1_SAMN03392596_MAG_00000030,GCF_982724155.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp.,Colwellia,DT_18,GCA_013215465.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp.,Colwellia,DT_19,GCA_013215655.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp.,Colwellia,DT_20,GCA_013215385.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp.,Colwellia,DT_21,GCA_013215295.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp.,Colwellia,DT_22,GCF_013214175.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp.,Colwellia,LAHBgam6,GCA_058133135.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp.,Colwellia,LAHBgam7,GCA_058135895.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp.,Colwellia,LAHBgam8,GCF_058135875.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp.,Colwellia,ME_XS_2210_bin_40,GCA_049607625.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp.,Colwellia,MIRAE2_sed1_maxbin_003,GCF_056174425.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp.,Colwellia,N1D-Bin_20,GCA_026195995.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp.,Colwellia,N1M-Bin_8,GCA_026196955.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp.,Colwellia,N2S-Bin_10,GCA_026193635.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp.,Colwellia,NORP236,GCA_016765005.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp.,Colwellia,NORP262,GCA_016764575.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp.,Colwellia,NORP29,GCA_002733765.1,Confirmed ortholog,1,,,absent,False,Other Colwelliaceae
+Colwellia sp.,Colwellia,NORP5,GCA_002734005.2,Confirmed ortholog,1,,,absent,False,Other Colwelliaceae
+Colwellia sp.,Colwellia,UBA10809,GCA_003520945.1,Confirmed ortholog,1,,,absent,False,Clade C
+Colwellia sp.,Colwellia,UBA8227,GCA_003545415.1,Confirmed ortholog,1,,,absent,False,Clade C
+Colwellia sp.,Colwellia,Vin_5,GCA_024228455.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp.,Colwellia,bin.13b,GCA_037132835.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp.,Colwellia,tPB_Gamm1,GCA_051531915.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp. 12G3,Colwellia,12G3,GCF_002836775.1,Confirmed ortholog,1,,,absent,False,Clade C
+Colwellia sp. 1_MG-2023,Colwellia,C2M19,GCF_030548105.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp. 20A7,Colwellia,20A7,GCF_009832865.1,Confirmed ortholog,1,,,absent,False,Other Colwelliaceae
+Colwellia sp. 2_MG-2023,Colwellia,C2R07,GCF_030548055.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp. 39_35_sub15_T18,Colwellia,39_35_sub15_T18,GCA_002162675.1,Confirmed ortholog,1,,,absent,False,Clade C;Other Colwelliaceae
+Colwellia sp. 3_MG-2023,Colwellia,C3R04,GCF_030547295.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp. 4_MG-2023,Colwellia,F1R02,GCF_030547125.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp. 5_MG-2023,Colwellia,G1M14,GCF_030547795.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp. 6M3,Colwellia,6M3,GCF_014077595.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp. 6_MG-2023,Colwellia,G3M07,GCF_030547765.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp. 75C3,Colwellia,75C3,GCF_002836255.1,Confirmed ortholog,1,,,absent,False,Clade C
+Colwellia sp. 8_GOM-1096m,Colwellia,8_GOM-1096m,GCA_000712155.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp. Arc7-635,Colwellia,Arc7-635,GCF_003971255.1,Confirmed ortholog,1,,,absent,False,Clade B
+Colwellia sp. Arc7-D,Colwellia,Arc7-D,GCF_003061515.1,Confirmed ortholog,1,,,absent,False,Clade B
+Colwellia sp. BRX10-1,Colwellia,BRX10-1,GCF_014077545.1,Confirmed ortholog,1,10.5,Colwellia BRX10.1,unique,True,Clade A1
+Colwellia sp. BRX10-2,Colwellia,BRX10-2,GCF_014077515.1,Confirmed ortholog,1,9.20000000000005,Colwellia BRX10.2,unique,True,Clade A1
+Colwellia sp. BRX10-3,Colwellia,BRX10-3,GCF_014077505.1,Confirmed ortholog,1,13.3000000000001,Colwellia BRX10.3,unique,True,Clade B
+Colwellia sp. BRX10-4,Colwellia,BRX10-4,GCF_014077465.1,Confirmed ortholog,1,8.44999999999999,Colwellia BRX10.4,unique,True,Clade A1
+Colwellia sp. BRX10-5,Colwellia,BRX10-5,GCF_014077435.1,Confirmed ortholog,1,10.5,Colwellia BRX10.5,unique,True,Clade A1
+Colwellia sp. BRX10-6,Colwellia,BRX10-6,GCF_014077455.1,Confirmed ortholog,1,10.2,Colwellia BRX10.6,unique,True,Clade A1
+Colwellia sp. BRX10-7,Colwellia,BRX10-7,GCF_014077415.1,Confirmed ortholog,1,10.5,Colwellia BRX10.7,unique,True,Clade A1
+Colwellia sp. BRX10-9,Colwellia,BRX10-9,GCF_014077405.1,Confirmed ortholog,1,9.5,Colwellia BRX10.9,unique,True,Clade A1
+Colwellia sp. BRX8-2,Colwellia,BRX8-2,GCF_014077375.1,Confirmed ortholog,1,8.60000000000002,Colwellia BRX8.2,unique,True,Clade A1
+Colwellia sp. BRX8-3,Colwellia,BRX8-3,GCF_014077355.1,Confirmed ortholog,1,8.89999999999998,Colwellia BRX8.3,unique,True,Clade A1
+Colwellia sp. BRX8-4,Colwellia,BRX8-4,GCF_014077345.1,Confirmed ortholog,1,10.7,Colwellia BRX8.4,unique,True,Clade A1
+Colwellia sp. BRX8-5,Colwellia,BRX8-5,GCF_014077325.1,Confirmed ortholog,1,9.70000000000005,Colwellia BRX8.5,unique,True,Clade A1
+Colwellia sp. BRX8-6,Colwellia,BRX8-6,GCF_014077305.1,Confirmed ortholog,1,10.1,Colwellia BRX8.6,unique,True,Clade A1
+Colwellia sp. BRX8-7,Colwellia,BRX8-7,GCF_014077275.1,Confirmed ortholog,1,10.2,Colwellia BRX8.7,unique,True,Clade A1
+Colwellia sp. BRX8-9,Colwellia,BRX8-9,GCF_014077245.1,Confirmed ortholog,1,8.30000000000007,Colwellia BRX8.9,unique,True,Clade A1
+Colwellia sp. BRX9-1,Colwellia,BRX9-1,GCF_014077195.1,Confirmed ortholog,1,9.80000000000007,Colwellia BRX9.1,unique,True,Clade A1
+Colwellia sp. Bg11-12,Colwellia,Bg11-12,GCF_014076955.1,Confirmed ortholog,1,12.0,Colwellia Bg11-12,unique,True,Clade A2
+Colwellia sp. Bg11-28,Colwellia,Bg11-28,GCF_002836245.1,Confirmed ortholog,1,10.7,Colwellia Bg11-28,unique,True,Clade C
+Colwellia sp. C1TZA3,Colwellia,C1TZA3,GCF_007954265.1,Confirmed ortholog,1,,,absent,False,Clade B
+Colwellia sp. C2M11,Colwellia,C2M11,GCF_018860915.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp. D2M02,Colwellia,D2M02,GCF_018860755.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp. E150_009,Colwellia,E150_009,GCF_053543955.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp. F1,Colwellia,F1,GCF_056238625.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp. KS18-150,Colwellia,KS18-150,GCF_057551365.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp. KU-HH00111,Colwellia,KU-HH00111,GCF_040362745.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp. M166,Colwellia,M166,GCF_024585285.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp. MB02u-1,Colwellia,MB02u-1,GCF_014077215.1,Confirmed ortholog,1,8.20000000000005,Colwellia MB02u-1,unique,True,Clade B
+Colwellia sp. MB02u-10,Colwellia,MB02u-10,GCF_014077185.1,Confirmed ortholog,1,7.60000000000002,Colwellia MB02u-10,unique,True,Clade B
+Colwellia sp. MB02u-11,Colwellia,MB02u-11,GCF_014076925.1,Confirmed ortholog,1,6.60000000000002,Colwellia MB02u-11,unique,True,Clade A2
+Colwellia sp. MB02u-11,Colwellia,ena-yuan-GCF_014076925.1,GCF_963889855.1,Confirmed ortholog,1,6.60000000000002,Colwellia MB02u-11,unique,True,Clade A2
+Colwellia sp. MB02u-12,Colwellia,MB02u-12,GCF_014077155.1,Confirmed ortholog,1,7.80000000000007,Colwellia MB02u-12,unique,True,Clade B
+Colwellia sp. MB02u-14,Colwellia,MB02u-14,GCF_014076915.1,Confirmed ortholog,1,7.20000000000005,Colwellia MB02u-14,unique,True,Clade A2
+Colwellia sp. MB02u-18,Colwellia,MB02u-18,GCF_014077125.1,Confirmed ortholog,1,9.20000000000005,Colwellia MB02u-18,unique,True,Clade B
+Colwellia sp. MB02u-19,Colwellia,MB02u-19,GCF_014077115.1,Confirmed ortholog,1,7.80000000000007,Colwellia MB02u-19,unique,True,Clade B
+Colwellia sp. MB02u-6,Colwellia,MB02u-6,GCF_014077095.1,Confirmed ortholog,1,7.25000000000006,Colwellia MB02u-6,unique,True,Clade B
+Colwellia sp. MB02u-7,Colwellia,MB02u-7,GCF_014076905.1,Confirmed ortholog,1,6.10000000000002,Colwellia MB02u-7,unique,True,Clade A2
+Colwellia sp. MB02u-7,Colwellia,ena-yuan-GCF_014076905.1,GCF_963889665.1,Confirmed ortholog,1,6.10000000000002,Colwellia MB02u-7,unique,True,Clade A2
+Colwellia sp. MB02u-9,Colwellia,MB02u-9,GCF_014077085.1,Confirmed ortholog,1,8.94999999999999,Colwellia MB02u-9,unique,True,Clade B
+Colwellia sp. MB3u-22,Colwellia,MB3u-22,GCF_014076885.1,Confirmed ortholog,1,6.39999999999998,Colwellia MB3u-22,unique,True,Clade A2
+Colwellia sp. MB3u-22,Colwellia,ena-yuan-GCF_014076885.1,GCF_963890005.1,Confirmed ortholog,1,6.39999999999998,Colwellia MB3u-22,unique,True,Clade A2
+Colwellia sp. MB3u-28,Colwellia,MB3u-28,GCF_014076795.1,Confirmed ortholog,1,6.70000000000005,Colwellia MB3u-28,unique,True,Clade A2
+Colwellia sp. MB3u-28,Colwellia,ena-yuan-GCF_014076795.1,GCF_963890185.1,Confirmed ortholog,1,6.70000000000005,Colwellia MB3u-28,unique,True,Clade A2
+Colwellia sp. MB3u-4,Colwellia,MB3u-4,GCF_014077065.1,Confirmed ortholog,1,7.89999999999998,Colwellia MB3u-4,unique,True,Clade B
+Colwellia sp. MB3u-41,Colwellia,MB3u-41,GCF_014076845.1,Confirmed ortholog,1,7.39999999999998,Colwellia MB3u-41,unique,True,Clade A2
+Colwellia sp. MB3u-41,Colwellia,ena-yuan-GCF_014076845.1,GCF_963890125.1,Confirmed ortholog,1,7.39999999999998,Colwellia MB3u-41,unique,True,Clade A2
+Colwellia sp. MB3u-43,Colwellia,MB3u-43,GCF_014076995.1,Confirmed ortholog,1,7.70000000000005,Colwellia MB3u-43,unique,True,Clade B
+Colwellia sp. MB3u-45,Colwellia,MB3u-45,GCF_014077005.1,Confirmed ortholog,1,8.80000000000007,Colwellia MB3u-45,unique,True,Clade B
+Colwellia sp. MB3u-55,Colwellia,MB3u-55,GCF_014076785.1,Confirmed ortholog,1,9.5,Colwellia MB3u-55,unique,True,Clade A1
+Colwellia sp. MB3u-64,Colwellia,MB3u-64,GCF_014076835.1,Confirmed ortholog,1,5.80000000000007,Colwellia MB3u-64,unique,True,Clade A2
+Colwellia sp. MB3u-64,Colwellia,ena-yuan-GCF_014076835.1,GCF_963890335.1,Confirmed ortholog,1,5.80000000000007,Colwellia MB3u-64,unique,True,Clade A2
+Colwellia sp. MB3u-70,Colwellia,MB3u-70,GCF_014077045.1,Confirmed ortholog,1,7.70000000000005,Colwellia MB3u-70,unique,True,Clade B
+Colwellia sp. MB3u-8,Colwellia,MB3u-8,GCF_014076985.1,Confirmed ortholog,1,10.7,Colwellia MB3u-8,unique,True,Clade B
+Colwellia sp. MEBiC06753,Colwellia,MEBiC06753,GCF_053470325.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp. MT2012,Colwellia,MT2012,GCF_001432325.1,Confirmed ortholog,1,,,absent,False,Clade C
+Colwellia sp. MT41,Colwellia,MT41,GCF_001444365.1,Confirmed ortholog,1,,,absent,False,Clade C
+Colwellia sp. NW0002-52-1,Colwellia,NW0002-52-1,GCF_057550865.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp. PAMC 20917,Colwellia,PAMC 20917,GCF_001767295.1,Confirmed ortholog,1,10.0,Colwellia sp. PAMC 20917,unique,False,Clade A1
+Colwellia sp. PAMC 21821,Colwellia,PAMC 21821,GCF_002077175.1,Confirmed ortholog,1,,,absent,False,Clade B
+Colwellia sp. RE-S-Sl-9,Colwellia,RE-S-Sl-9,GCF_048296855.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp. RSH04,Colwellia,RSH04,GCF_003545765.1,Confirmed ortholog,1,,,absent,False,Other Colwelliaceae
+Colwellia sp. SU-HH00943,Colwellia,SU-HH00943,GCF_057546125.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp. SU-HH01172,Colwellia,SU-HH01172,GCF_057553355.1,Confirmed ortholog,1,,,absent,False,
+Colwellia sp. SU-HH01217,Colwellia,SU-HH01217,GCF_057543495.1,Confirmed ortholog,2,,,absent,False,
+Colwellia sp. TT2012,Colwellia,TT2012,GCF_001440345.1,Confirmed ortholog,1,,,absent,False,Clade C
+Colwellia sp. UCD-KL20,Colwellia,UCD-KL20,GCA_001957175.1,Confirmed ortholog,1,,,absent,False,Other Colwelliaceae
+Litorilituus lipolyticus,Litorilituus,RZ04,GCF_006439335.1,Confirmed ortholog,1,25.0,Litorilituus sp. RZ04,unique,False,Other Colwelliaceae
+Litorilituus sediminis,Litorilituus,JCM 17549,GCF_004295665.1,Confirmed ortholog,1,37.0,Litorilituus sediminis strain JCM 17549,unique,False,Other Colwelliaceae
+Litorilituus sp.,Litorilituus,ETNP20_MAG_10,GCA_030754235.1,Confirmed ortholog,1,,,absent,False,
+Pseudocolwellia agarivorans,Pseudocolwellia,MEBiC07675,GCF_052061675.1,Confirmed ortholog,1,,,absent,False,
+Pseudocolwellia agarivorans,Pseudocolwellia,QM50,GCF_002000085.1,Confirmed ortholog,1,29.0,Pseudocolwellia agarivorans strain QM50,unique,False,Other Colwelliaceae
+Pseudocolwellia antarctica,Pseudocolwellia,HL-MZ19,GCF_049932575.1,Confirmed ortholog,1,,,absent,False,
+Pseudocolwellia antarctica,Pseudocolwellia,HL-MZ7,GCF_049933045.1,Confirmed ortholog,1,,,absent,False,
+Pseudocolwellia sp. AS88,Pseudocolwellia,AS88,GCF_030551755.1,Confirmed ortholog,1,,,absent,False,
+Pseudocolwellia sp. AS88,Pseudocolwellia,AS88,GCF_038900155.1,Confirmed ortholog,1,,,absent,False,
+Pseudocolwellia sp. G5-9,Pseudocolwellia,G5-9,GCF_055808995.1,Confirmed ortholog,1,,,absent,False,
+Thalassomonas actiniarum,Thalassomonas,A5K-106,GCF_000948975.2,Confirmed ortholog,1,27.5,Thalassomonas actiniarum strain A5K-106,unique,False,Other Colwelliaceae
+Thalassomonas haliotis,Thalassomonas,A5K-61T,GCF_028657945.1,Confirmed ortholog,1,,,absent,False,
+Thalassomonas sp. M1454,Thalassomonas,M1454,GCF_007097525.1,Confirmed ortholog,1,,,absent,False,Other Colwelliaceae
+Thalassomonas viridans,Thalassomonas,XOM25,GCF_000948985.2,Confirmed ortholog,1,,,absent,False,Other Colwelliaceae
+Thalassotalea agariperforans,Thalassotalea,M-M1,GCF_053470345.1,Confirmed ortholog,1,,,absent,False,
+Thalassotalea agarivorans,Thalassotalea,JCM 13379,GCF_030295955.1,Confirmed ortholog,1,,,absent,False,
+Thalassotalea algicola,Thalassotalea,M1531,GCF_012932965.1,Confirmed ortholog,1,,,absent,False,
+Thalassotalea aquiviva,Thalassotalea,273M-4,GCF_041410465.1,Confirmed ortholog,1,,,absent,False,
+Thalassotalea atypica,Thalassotalea,JCM 31894,GCF_030295975.1,Confirmed ortholog,1,,,absent,False,
+Thalassotalea crassostreae,Thalassotalea,LPB0090,GCF_001652445.1,Confirmed ortholog,1,25.0,Thalassotalea sp. LPB0090,unique,False,Other Colwelliaceae
+Thalassotalea crassostreae,Thalassotalea,LPB0090,GCF_001831495.1,Confirmed ortholog,1,25.0,Thalassotalea sp. LPB0090,unique,False,Other Colwelliaceae
+Thalassotalea euphylliae,Thalassotalea,H1,GCF_003390335.1,Confirmed ortholog,1,,,absent,False,
+Thalassotalea euphylliae,Thalassotalea,H2,GCF_003390395.1,Confirmed ortholog,1,,,absent,False,
+Thalassotalea euphylliae,Thalassotalea,H3,GCF_003390375.1,Confirmed ortholog,1,,,absent,False,
+Thalassotalea euphylliae,Thalassotalea,KCTC 42743,GCF_042682785.1,Confirmed ortholog,1,,,absent,False,
+Thalassotalea eurytherma,Thalassotalea,JCM 18482,GCF_030161415.1,Confirmed ortholog,1,,,absent,False,
+Thalassotalea fonticola,Thalassotalea,S1-1,GCF_032911225.1,Confirmed ortholog,1,,,absent,False,
+Thalassotalea fusca,Thalassotalea,G-MB1,GCF_053485835.1,Confirmed ortholog,1,,,absent,False,
+Thalassotalea litorea,Thalassotalea,HQB-110,GCF_043422055.1,Confirmed ortholog,1,,,absent,False,
+Thalassotalea litorea,Thalassotalea,HQB-110,GCF_043642205.1,Confirmed ortholog,1,,,absent,False,
+Thalassotalea litorea,Thalassotalea,MCCC 1K03283,GCF_005843925.1,Confirmed ortholog,1,,,absent,False,Other Colwelliaceae
+Thalassotalea loyana,Thalassotalea,LMG 22536,GCF_030161435.1,Confirmed ortholog,1,,,absent,False,
+Thalassotalea mangrovi,Thalassotalea,ZS-4,GCF_005116735.1,Confirmed ortholog,1,37.0,Thalassotalea sp. ZS-4,unique,False,Other Colwelliaceae
+Thalassotalea montiporae,Thalassotalea,CL-22,GCF_053485855.1,Confirmed ortholog,1,,,absent,False,
+Thalassotalea nanhaiensis,Thalassotalea,SQ345,GCF_031583575.1,Confirmed ortholog,1,,,absent,False,
+Thalassotalea ponticola,Thalassotalea,CECT 8656,GCF_030409725.1,Confirmed ortholog,1,,,absent,False,
+Thalassotalea ponticola,Thalassotalea,KCTC 42155,GCF_041379045.1,Confirmed ortholog,1,,,absent,False,
+Thalassotalea psychrophila,Thalassotalea,SQ149,GCF_031583595.1,Confirmed ortholog,1,,,absent,False,
+Thalassotalea sp.,Thalassotalea,ALOHA_ZT_66,GCA_022448425.1,Confirmed ortholog,1,,,absent,False,
+Thalassotalea sp.,Thalassotalea,MAG_38,GCA_051251725.1,Confirmed ortholog,1,,,absent,False,
+Thalassotalea sp.,Thalassotalea,SP_00005,GCA_062036510.1,Confirmed ortholog,1,,,absent,False,
+Thalassotalea sp.,Thalassotalea,cluster1_bin.20,GCA_029237915.1,Confirmed ortholog,1,,,absent,False,
+Thalassotalea sp. 42_200_T64,Thalassotalea,42_200_T64,GCA_002162925.1,Confirmed ortholog,1,,,absent,False,Other Colwelliaceae
+Thalassotalea sp. HSM 43,Thalassotalea,HSM 43,GCF_004752005.1,Confirmed ortholog,1,,,absent,False,
+Thalassotalea sp. LPB0316,Thalassotalea,LPB0316,GCF_014898095.1,Confirmed ortholog,1,,,absent,False,
+Thalassotalea sp. MEBiC06624,Thalassotalea,MEBiC06624,GCF_060677385.1,Confirmed ortholog,1,,,absent,False,
+Thalassotalea sp. ND16A,Thalassotalea,ND16A,GCF_000764205.1,Confirmed ortholog,1,,,absent,False,Other Colwelliaceae
+Thalassotalea sp. NO-S15,Thalassotalea,NO-S15,GCF_060156545.1,Confirmed ortholog,1,,,absent,False,
+Thalassotalea sp. PLHSN55,Thalassotalea,PLHSN55,GCF_052030545.1,Confirmed ortholog,1,,,absent,False,
+Thalassotalea sp. PS06,Thalassotalea,PS06,GCF_007197775.1,Confirmed ortholog,1,,,absent,False,Other Colwelliaceae
+Thalassotalea sp. Y01,Thalassotalea,Y01,GCF_012932945.1,Confirmed ortholog,1,,,absent,False,
+Colwelliaceae bacterium 6471,unresolved,6471,GCA_040779335.1,Confirmed ortholog,1,,,absent,False,
+Colwelliaceae bacterium BS250,unresolved,BS250,GCA_040779355.1,Confirmed ortholog,1,,,absent,False,
+Colwelliaceae bacterium MEBiC 14330,unresolved,MEBiC 14330,GCA_040779365.1,Confirmed ortholog,1,,,absent,False,
